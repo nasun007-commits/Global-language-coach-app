@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T15:33:37.967660+00:00",
+  "generatedAt": "2026-06-18T16:38:21.247763+00:00",
   "daily": {
     "English": [
       {
@@ -649,6 +649,166 @@
           }
         ],
         "sourceFile": "2026-06-17 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-18",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-18",
+        "practice": "Let's clarify the ownership before this falls between teams.",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "Let's clarify the ownership before this falls between teams.",
+            "korean": "이 일이 팀들 사이에서 떠넘겨지기 전에 담당 주체를 명확히 합시다.",
+            "expressions": [
+              {
+                "term": "clarify the ownership",
+                "meaning": "담당 주체를 명확히 하다. 책임 소재가 불분명한 업무를 정리할 때 씁니다."
+              },
+              {
+                "term": "fall between teams",
+                "meaning": "여러 팀 사이에서 책임자가 없어지다. 협업 공백을 지적할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "We can move faster if we separate the must-haves from the nice-to-haves.",
+            "korean": "필수 항목과 있으면 좋은 항목을 분리하면 더 빠르게 진행할 수 있습니다.",
+            "expressions": [
+              {
+                "term": "must-haves",
+                "meaning": "반드시 필요한 항목. 제품 요구사항이나 협상 조건에서 씁니다."
+              },
+              {
+                "term": "nice-to-haves",
+                "meaning": "있으면 좋지만 필수는 아닌 항목. 범위 조정 시 유용합니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "I need a clearer read on the trade-off before I can sign off.",
+            "korean": "승인하기 전에 그 상충관계를 더 명확히 파악해야 합니다.",
+            "expressions": [
+              {
+                "term": "get a clearer read on",
+                "meaning": "상황을 더 명확히 파악하다. 정보가 부족할 때 판단을 유보하며 씁니다."
+              },
+              {
+                "term": "sign off",
+                "meaning": "승인하다, 최종 확인하다. 업무 결재나 의사결정에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "clarify the ownership",
+            "meaning": "담당 주체를 명확히 하다. 책임 소재가 불분명한 업무를 정리할 때 씁니다."
+          },
+          {
+            "term": "fall between teams",
+            "meaning": "여러 팀 사이에서 책임자가 없어지다. 협업 공백을 지적할 때 씁니다."
+          },
+          {
+            "term": "must-haves",
+            "meaning": "반드시 필요한 항목. 제품 요구사항이나 협상 조건에서 씁니다."
+          },
+          {
+            "term": "nice-to-haves",
+            "meaning": "있으면 좋지만 필수는 아닌 항목. 범위 조정 시 유용합니다."
+          },
+          {
+            "term": "get a clearer read on",
+            "meaning": "상황을 더 명확히 파악하다. 정보가 부족할 때 판단을 유보하며 씁니다."
+          },
+          {
+            "term": "sign off",
+            "meaning": "승인하다, 최종 확인하다. 업무 결재나 의사결정에서 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-18 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-19",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-19",
+        "practice": "The proposal is solid, but the implementation burden is still understated.",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "Let's make the next step explicit so nobody has to infer it.",
+            "korean": "아무도 추측하지 않아도 되도록 다음 단계를 명확히 합시다.",
+            "expressions": [
+              {
+                "term": "make the next step explicit",
+                "meaning": "다음 단계를 명시적으로 밝히다. 회의 후 실행 항목을 정리할 때 씁니다."
+              },
+              {
+                "term": "infer it",
+                "meaning": "그것을 추론하다. 직접 말하지 않은 내용을 알아서 판단하는 상황에서 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "We should revisit the assumption if the data keeps moving against it.",
+            "korean": "데이터가 계속 그 가정과 반대로 움직인다면 그 가정을 다시 검토해야 합니다.",
+            "expressions": [
+              {
+                "term": "revisit the assumption",
+                "meaning": "가정을 다시 검토하다. 기존 판단 근거가 약해졌을 때 씁니다."
+              },
+              {
+                "term": "move against it",
+                "meaning": "그것과 반대 방향으로 움직이다. 데이터나 시장 흐름이 예측과 어긋날 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "The proposal is solid, but the implementation burden is still understated.",
+            "korean": "제안은 탄탄하지만, 실행 부담이 아직 과소평가되어 있습니다.",
+            "expressions": [
+              {
+                "term": "implementation burden",
+                "meaning": "실행 부담. 계획을 실제로 적용하는 데 필요한 인력, 시간, 비용을 말합니다."
+              },
+              {
+                "term": "understated",
+                "meaning": "축소되어 표현된, 과소평가된. 리스크나 비용이 실제보다 작게 제시될 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "make the next step explicit",
+            "meaning": "다음 단계를 명시적으로 밝히다. 회의 후 실행 항목을 정리할 때 씁니다."
+          },
+          {
+            "term": "infer it",
+            "meaning": "그것을 추론하다. 직접 말하지 않은 내용을 알아서 판단하는 상황에서 씁니다."
+          },
+          {
+            "term": "revisit the assumption",
+            "meaning": "가정을 다시 검토하다. 기존 판단 근거가 약해졌을 때 씁니다."
+          },
+          {
+            "term": "move against it",
+            "meaning": "그것과 반대 방향으로 움직이다. 데이터나 시장 흐름이 예측과 어긋날 때 씁니다."
+          },
+          {
+            "term": "implementation burden",
+            "meaning": "실행 부담. 계획을 실제로 적용하는 데 필요한 인력, 시간, 비용을 말합니다."
+          },
+          {
+            "term": "understated",
+            "meaning": "축소되어 표현된, 과소평가된. 리스크나 비용이 실제보다 작게 제시될 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-19 English Daily Sentences.md"
       }
     ],
     "Japanese": [
@@ -1459,6 +1619,214 @@
           }
         ],
         "sourceFile": "2026-06-17 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-18",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-18",
+        "practice": "承認する前に、そのトレードオフをもう少し明確にしたいです。",
+        "sentences": [
+          {
+            "reading": "このけんがぶしょかんでういたままにならないよう、まずせきにんしゃをはっきりさせましょう。",
+            "original": "この件が部署間で浮いたままにならないよう、まず責任者をはっきりさせましょう。",
+            "korean": "이 건이 부서 사이에서 붕 뜨지 않도록 먼저 책임자를 명확히 합시다.",
+            "expressions": [
+              {
+                "term": "部署間で浮いたままになる",
+                "reading": "ぶしょかんでういたままになる",
+                "meaning": "부서 사이에서 책임자가 정해지지 않은 채 남다.",
+                "note": "부서 간 업무 공백을 지적할 때 씁니다."
+              },
+              {
+                "term": "責任者をはっきりさせる",
+                "reading": "せきにんしゃをはっきりさせる",
+                "meaning": "책임자를 명확히 하다.",
+                "note": "프로젝트 오너나 담당자를 확정할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "ひっすこうもくと、あればよいこうもくをわければ、もっとはやくすすめられます。",
+            "original": "必須項目と、あればよい項目を分ければ、もっと早く進められます。",
+            "korean": "필수 항목과 있으면 좋은 항목을 나누면 더 빠르게 진행할 수 있습니다.",
+            "expressions": [
+              {
+                "term": "必須項目",
+                "reading": "ひっすこうもく",
+                "meaning": "필수 항목.",
+                "note": "요구사항, 조건, 우선순위를 정할 때 씁니다."
+              },
+              {
+                "term": "あればよい項目",
+                "reading": "あればよいこうもく",
+                "meaning": "있으면 좋은 항목.",
+                "note": "범위 조정이나 일정 단축 논의에서 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "しょうにんするまえに、そのトレードオフをもうすこしめいかくにしたいです。",
+            "original": "承認する前に、そのトレードオフをもう少し明確にしたいです。",
+            "korean": "승인하기 전에 그 상충관계를 조금 더 명확히 하고 싶습니다.",
+            "expressions": [
+              {
+                "term": "承認する",
+                "reading": "しょうにんする",
+                "meaning": "승인하다.",
+                "note": "업무 결재, 제안 승인, 최종 확인에서 씁니다."
+              },
+              {
+                "term": "明確にする",
+                "reading": "めいかくにする",
+                "meaning": "명확히 하다.",
+                "note": "기준, 책임, 리스크를 분명히 할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "部署間で浮いたままになる",
+            "reading": "ぶしょかんでういたままになる",
+            "meaning": "부서 사이에서 책임자가 정해지지 않은 채 남다.",
+            "note": "부서 간 업무 공백을 지적할 때 씁니다."
+          },
+          {
+            "term": "責任者をはっきりさせる",
+            "reading": "せきにんしゃをはっきりさせる",
+            "meaning": "책임자를 명확히 하다.",
+            "note": "프로젝트 오너나 담당자를 확정할 때 씁니다."
+          },
+          {
+            "term": "必須項目",
+            "reading": "ひっすこうもく",
+            "meaning": "필수 항목.",
+            "note": "요구사항, 조건, 우선순위를 정할 때 씁니다."
+          },
+          {
+            "term": "あればよい項目",
+            "reading": "あればよいこうもく",
+            "meaning": "있으면 좋은 항목.",
+            "note": "범위 조정이나 일정 단축 논의에서 씁니다."
+          },
+          {
+            "term": "承認する",
+            "reading": "しょうにんする",
+            "meaning": "승인하다.",
+            "note": "업무 결재, 제안 승인, 최종 확인에서 씁니다."
+          },
+          {
+            "term": "明確にする",
+            "reading": "めいかくにする",
+            "meaning": "명확히 하다.",
+            "note": "기준, 책임, 리스크를 분명히 할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-18 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-19",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-19",
+        "practice": "提案はしっかりしていますが、実行負担がまだ過小評価されています。",
+        "sentences": [
+          {
+            "reading": "だれもすいそくしなくていいように、つぎのステップをめいかくにしましょう。",
+            "original": "誰も推測しなくていいように、次のステップを明確にしましょう。",
+            "korean": "아무도 추측하지 않아도 되도록 다음 단계를 명확히 합시다.",
+            "expressions": [
+              {
+                "term": "推測する",
+                "reading": "すいそくする",
+                "meaning": "추측하다.",
+                "note": "정보가 명확하지 않아 상대가 알아서 판단해야 하는 상황에서 씁니다."
+              },
+              {
+                "term": "明確にする",
+                "reading": "めいかくにする",
+                "meaning": "명확히 하다.",
+                "note": "다음 행동, 책임자, 기준을 분명히 할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "データがそうていとぎゃくのうごきをつづけるなら、そのぜんていをみなおすべきです。",
+            "original": "データが想定と逆の動きを続けるなら、その前提を見直すべきです。",
+            "korean": "데이터가 예상과 반대되는 흐름을 계속 보인다면 그 전제를 재검토해야 합니다.",
+            "expressions": [
+              {
+                "term": "前提を見直す",
+                "reading": "ぜんていをみなおす",
+                "meaning": "전제를 재검토하다.",
+                "note": "분석이나 계획의 기반이 흔들릴 때 씁니다."
+              },
+              {
+                "term": "想定と逆",
+                "reading": "そうていとぎゃく",
+                "meaning": "예상과 반대.",
+                "note": "데이터, 시장, 고객 반응이 예측과 다를 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "ていあんはしっかりしていますが、じっこうふたんがまだかしょうひょうかされています。",
+            "original": "提案はしっかりしていますが、実行負担がまだ過小評価されています。",
+            "korean": "제안은 탄탄하지만 실행 부담이 아직 과소평가되어 있습니다.",
+            "expressions": [
+              {
+                "term": "実行負担",
+                "reading": "じっこうふたん",
+                "meaning": "실행 부담.",
+                "note": "계획을 실제로 운영하는 데 드는 인력, 시간, 비용을 말합니다."
+              },
+              {
+                "term": "過小評価される",
+                "reading": "かしょうひょうかされる",
+                "meaning": "과소평가되다.",
+                "note": "리스크나 난이도가 실제보다 낮게 평가될 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "推測する",
+            "reading": "すいそくする",
+            "meaning": "추측하다.",
+            "note": "정보가 명확하지 않아 상대가 알아서 판단해야 하는 상황에서 씁니다."
+          },
+          {
+            "term": "明確にする",
+            "reading": "めいかくにする",
+            "meaning": "명확히 하다.",
+            "note": "다음 행동, 책임자, 기준을 분명히 할 때 씁니다."
+          },
+          {
+            "term": "前提を見直す",
+            "reading": "ぜんていをみなおす",
+            "meaning": "전제를 재검토하다.",
+            "note": "분석이나 계획의 기반이 흔들릴 때 씁니다."
+          },
+          {
+            "term": "想定と逆",
+            "reading": "そうていとぎゃく",
+            "meaning": "예상과 반대.",
+            "note": "데이터, 시장, 고객 반응이 예측과 다를 때 씁니다."
+          },
+          {
+            "term": "実行負担",
+            "reading": "じっこうふたん",
+            "meaning": "실행 부담.",
+            "note": "계획을 실제로 운영하는 데 드는 인력, 시간, 비용을 말합니다."
+          },
+          {
+            "term": "過小評価される",
+            "reading": "かしょうひょうかされる",
+            "meaning": "과소평가되다.",
+            "note": "리스크나 난이도가 실제보다 낮게 평가될 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-19 Japanese Daily Sentences.md"
       }
     ],
     "Chinese": [
@@ -2261,6 +2629,214 @@
           }
         ],
         "sourceFile": "2026-06-17 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-18",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-18",
+        "practice": "我们先把责任主体说清楚，免得这件事卡在几个团队之间。",
+        "sentences": [
+          {
+            "reading": "Wǒmen xiān bǎ zérèn zhǔtǐ shuō qīngchu, miǎndé zhè jiàn shì kǎ zài jǐ gè tuánduì zhījiān.",
+            "original": "我们先把责任主体说清楚，免得这件事卡在几个团队之间。",
+            "korean": "이 일이 여러 팀 사이에서 막히지 않도록 먼저 책임 주체를 명확히 합시다.",
+            "expressions": [
+              {
+                "term": "责任主体",
+                "reading": "zérèn zhǔtǐ",
+                "meaning": "책임 주체.",
+                "note": "업무 책임, 법적 책임, 프로젝트 오너를 명확히 할 때 씁니다."
+              },
+              {
+                "term": "卡在……之间",
+                "reading": "kǎ zài……zhījiān",
+                "meaning": "…사이에 끼어 진행되지 않다.",
+                "note": "부서 간 책임 공백이나 병목을 말할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Rúguǒ bǎ bìxū xiàng hé fēi bìxū xiàng fēn kāi, tuījìn sùdù huì kuài hěn duō.",
+            "original": "如果把必须项和非必须项分开，推进速度会快很多。",
+            "korean": "필수 항목과 비필수 항목을 분리하면 추진 속도가 훨씬 빨라집니다.",
+            "expressions": [
+              {
+                "term": "必须项",
+                "reading": "bìxū xiàng",
+                "meaning": "필수 항목.",
+                "note": "요구사항, 계약 조건, 프로젝트 범위를 정할 때 씁니다."
+              },
+              {
+                "term": "推进速度",
+                "reading": "tuījìn sùdù",
+                "meaning": "추진 속도.",
+                "note": "업무나 프로젝트가 얼마나 빠르게 진행되는지 말할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zài wǒ pīzhǔn zhīqián, xūyào gèng qīngchǔ dì kàn dào zhège quánhéng.",
+            "original": "在我批准之前，需要更清楚地看到这个权衡。",
+            "korean": "제가 승인하기 전에 이 상충관계를 더 명확히 봐야 합니다.",
+            "expressions": [
+              {
+                "term": "权衡",
+                "reading": "quánhéng",
+                "meaning": "상충관계, 득실 비교.",
+                "note": "비용과 효과, 속도와 품질처럼 서로 충돌하는 요소를 비교할 때 씁니다."
+              },
+              {
+                "term": "批准",
+                "reading": "pīzhǔn",
+                "meaning": "승인하다.",
+                "note": "공식 의사결정이나 결재 맥락에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "责任主体",
+            "reading": "zérèn zhǔtǐ",
+            "meaning": "책임 주체.",
+            "note": "업무 책임, 법적 책임, 프로젝트 오너를 명확히 할 때 씁니다."
+          },
+          {
+            "term": "卡在……之间",
+            "reading": "kǎ zài……zhījiān",
+            "meaning": "…사이에 끼어 진행되지 않다.",
+            "note": "부서 간 책임 공백이나 병목을 말할 때 씁니다."
+          },
+          {
+            "term": "必须项",
+            "reading": "bìxū xiàng",
+            "meaning": "필수 항목.",
+            "note": "요구사항, 계약 조건, 프로젝트 범위를 정할 때 씁니다."
+          },
+          {
+            "term": "推进速度",
+            "reading": "tuījìn sùdù",
+            "meaning": "추진 속도.",
+            "note": "업무나 프로젝트가 얼마나 빠르게 진행되는지 말할 때 씁니다."
+          },
+          {
+            "term": "权衡",
+            "reading": "quánhéng",
+            "meaning": "상충관계, 득실 비교.",
+            "note": "비용과 효과, 속도와 품질처럼 서로 충돌하는 요소를 비교할 때 씁니다."
+          },
+          {
+            "term": "批准",
+            "reading": "pīzhǔn",
+            "meaning": "승인하다.",
+            "note": "공식 의사결정이나 결재 맥락에서 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-18 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-19",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-19",
+        "practice": "这个提案本身很扎实，但执行负担还是被低估了。",
+        "sentences": [
+          {
+            "reading": "Wǒmen bǎ xià yíbù shuō dé gèng míngquè, zhèyàng dàjiā jiù bú yòng kào cāi.",
+            "original": "我们把下一步说得更明确，这样大家就不用靠猜。",
+            "korean": "다음 단계를 더 명확히 말해서 모두가 추측에 의존하지 않도록 합시다.",
+            "expressions": [
+              {
+                "term": "下一步",
+                "reading": "xià yíbù",
+                "meaning": "다음 단계.",
+                "note": "회의 후 실행 항목이나 프로젝트 진행 순서를 말할 때 씁니다."
+              },
+              {
+                "term": "靠猜",
+                "reading": "kào cāi",
+                "meaning": "추측에 의존하다.",
+                "note": "정보가 명확하지 않아 각자 해석해야 하는 상황을 지적할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Rúguǒ shùjù chíxù cháo xiāngfǎn fāngxiàng zǒu, wǒmen jiù yīnggāi chóngxīn jiǎnshì zhège jiǎshè.",
+            "original": "如果数据持续朝相反方向走，我们就应该重新检视这个假设。",
+            "korean": "데이터가 계속 반대 방향으로 움직이면 이 가정을 다시 검토해야 합니다.",
+            "expressions": [
+              {
+                "term": "重新检视",
+                "reading": "chóngxīn jiǎnshì",
+                "meaning": "다시 검토하다.",
+                "note": "기존 판단, 전략, 가정이 여전히 유효한지 점검할 때 씁니다."
+              },
+              {
+                "term": "假设",
+                "reading": "jiǎshè",
+                "meaning": "가정.",
+                "note": "분석, 기획, 예측의 전제 조건을 말할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhège tí'àn běnshēn hěn zhāshi, dàn zhíxíng fùdān háishi bèi dīgū le.",
+            "original": "这个提案本身很扎实，但执行负担还是被低估了。",
+            "korean": "이 제안 자체는 탄탄하지만 실행 부담은 여전히 과소평가되었습니다.",
+            "expressions": [
+              {
+                "term": "执行负担",
+                "reading": "zhíxíng fùdān",
+                "meaning": "실행 부담.",
+                "note": "계획을 실행하는 데 필요한 비용, 인력, 시간 부담을 말합니다."
+              },
+              {
+                "term": "被低估",
+                "reading": "bèi dīgū",
+                "meaning": "과소평가되다.",
+                "note": "리스크, 비용, 난이도가 실제보다 낮게 평가될 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "下一步",
+            "reading": "xià yíbù",
+            "meaning": "다음 단계.",
+            "note": "회의 후 실행 항목이나 프로젝트 진행 순서를 말할 때 씁니다."
+          },
+          {
+            "term": "靠猜",
+            "reading": "kào cāi",
+            "meaning": "추측에 의존하다.",
+            "note": "정보가 명확하지 않아 각자 해석해야 하는 상황을 지적할 때 씁니다."
+          },
+          {
+            "term": "重新检视",
+            "reading": "chóngxīn jiǎnshì",
+            "meaning": "다시 검토하다.",
+            "note": "기존 판단, 전략, 가정이 여전히 유효한지 점검할 때 씁니다."
+          },
+          {
+            "term": "假设",
+            "reading": "jiǎshè",
+            "meaning": "가정.",
+            "note": "분석, 기획, 예측의 전제 조건을 말할 때 씁니다."
+          },
+          {
+            "term": "执行负担",
+            "reading": "zhíxíng fùdān",
+            "meaning": "실행 부담.",
+            "note": "계획을 실행하는 데 필요한 비용, 인력, 시간 부담을 말합니다."
+          },
+          {
+            "term": "被低估",
+            "reading": "bèi dīgū",
+            "meaning": "과소평가되다.",
+            "note": "리스크, 비용, 난이도가 실제보다 낮게 평가될 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-19 Chinese Daily Sentences.md"
       }
     ]
   },
@@ -2659,6 +3235,101 @@
           "- [The Guardian, June 17, 2026 - G7 summit live coverage](https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates)"
         ],
         "sourceFile": "2026-06-17 English World Issue.md"
+      },
+      {
+        "date": "2026-06-18",
+        "language": "English",
+        "title": "English World Issue - 2026-06-18",
+        "topic": "AI, gig work, labor market",
+        "practice": "실제 위험은 일자리 상실만이 아니라, 남아 있는 일자리 안에서 협상력이 약해지는 것입니다.",
+        "issueCards": [
+          {
+            "title": "AI, gig work, labor market",
+            "reading": "",
+            "original": "AI may not simply replace jobs; it could also fragment stable roles into gig-like tasks with fewer protections.",
+            "korean": "AI는 단순히 일자리를 대체하는 데 그치지 않고, 안정적인 직무를 보호가 적은 긱워크식 업무 단위로 쪼갤 수도 있습니다.",
+            "expressions": [
+              {
+                "term": "fragment stable roles",
+                "meaning": "안정적인 직무를 잘게 쪼개다. 정규직 업무가 계약형·단기 업무로 분해되는 상황에서 씁니다."
+              },
+              {
+                "term": "gig-like tasks",
+                "meaning": "긱워크식 업무. 플랫폼 노동처럼 단기 단위로 배정되는 일을 말합니다."
+              },
+              {
+                "term": "fewer protections",
+                "meaning": "더 적은 보호 장치. 유급휴가, 고용 안정성, 복리후생이 줄어드는 맥락에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "fragment stable roles",
+            "meaning": "안정적인 직무를 잘게 쪼개다. 정규직 업무가 계약형·단기 업무로 분해되는 상황에서 씁니다."
+          },
+          {
+            "term": "gig-like tasks",
+            "meaning": "긱워크식 업무. 플랫폼 노동처럼 단기 단위로 배정되는 일을 말합니다."
+          },
+          {
+            "term": "fewer protections",
+            "meaning": "더 적은 보호 장치. 유급휴가, 고용 안정성, 복리후생이 줄어드는 맥락에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [The Guardian, June 18, 2026 - AI threatens gig work rise](https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise)"
+        ],
+        "sourceFile": "2026-06-18 English World Issue.md"
+      },
+      {
+        "date": "2026-06-19",
+        "language": "English",
+        "title": "English World Issue - 2026-06-19",
+        "topic": "G7, AI governance, export controls",
+        "practice": "AI 정책은 안전성 논의를 넘어 접근권, 표준, 컴퓨팅 자원을 둘러싼 하드파워 경쟁으로 이동하고 있습니다.",
+        "issueCards": [
+          {
+            "title": "G7, AI governance, export controls",
+            "reading": "",
+            "original": "At the G7, AI leaders warned that export controls and divergent rules could splinter democratic cooperation on advanced AI.",
+            "korean": "G7에서 AI 업계 리더들은 수출통제와 서로 다른 규칙이 첨단 AI를 둘러싼 민주주의 국가 간 협력을 분열시킬 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "export controls",
+                "meaning": "수출통제. 전략 기술이나 민감한 제품의 해외 이전을 제한하는 정책입니다."
+              },
+              {
+                "term": "divergent rules",
+                "meaning": "서로 달라지는 규칙. 국가별 규제가 갈라져 기업과 동맹국의 협력이 어려워지는 상황입니다."
+              },
+              {
+                "term": "splinter democratic cooperation",
+                "meaning": "민주주의 국가 간 협력을 분열시키다. 공동 표준이나 정책 공조가 깨지는 맥락에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "export controls",
+            "meaning": "수출통제. 전략 기술이나 민감한 제품의 해외 이전을 제한하는 정책입니다."
+          },
+          {
+            "term": "divergent rules",
+            "meaning": "서로 달라지는 규칙. 국가별 규제가 갈라져 기업과 동맹국의 협력이 어려워지는 상황입니다."
+          },
+          {
+            "term": "splinter democratic cooperation",
+            "meaning": "민주주의 국가 간 협력을 분열시키다. 공동 표준이나 정책 공조가 깨지는 맥락에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Financial Times, June 19, 2026 - Anthropic chief tells G7 leaders to resist the temptation to splinter over AI](https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d)",
+          "- [The Economic Times, June 19, 2026 - Silicon Valley chiefs discuss gigawatts and guardrails at G7](https://m.economictimes.com/tech/technology/silicon-valley-chiefs-discuss-gigawatts-guardrails-at-g7/articleshow/131831507.cms)"
+        ],
+        "sourceFile": "2026-06-19 English World Issue.md"
       }
     ],
     "Japanese": [
@@ -3131,6 +3802,125 @@
           "- [The Guardian, 2026-06-17 - G7 summit live coverage](https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates)"
         ],
         "sourceFile": "2026-06-17 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-18",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-18",
+        "topic": "AI, gig work, labor market",
+        "practice": "本当のリスクは失業だけでなく、残る仕事の中で交渉力が弱まることです。",
+        "issueCards": [
+          {
+            "title": "AI, gig work, labor market",
+            "reading": "AIはしごとをたんにうばうだけでなく、あんていしたしょくむを、ほごのすくないギグワークがたのたんいにぶんかいするおそれがあります。",
+            "original": "AIは仕事を単に奪うだけでなく、安定した職務を、保護の少ないギグワーク型の単位に分解するおそれがあります。",
+            "korean": "AI는 일을 단순히 빼앗는 데 그치지 않고, 안정적인 직무를 보호가 적은 긱워크형 단위로 분해할 우려가 있습니다.",
+            "expressions": [
+              {
+                "term": "安定した職務",
+                "reading": "あんていしたしょくむ",
+                "meaning": "안정적인 직무.",
+                "note": "정규직·장기 고용 기반의 업무를 설명할 때 씁니다."
+              },
+              {
+                "term": "分解する",
+                "reading": "ぶんかいする",
+                "meaning": "분해하다.",
+                "note": "하나의 역할을 여러 작업 단위로 쪼갤 때 씁니다."
+              },
+              {
+                "term": "保護の少ない",
+                "reading": "ほごのすくない",
+                "meaning": "보호가 적은.",
+                "note": "고용 안정성, 복리후생, 노동권이 약한 상태를 말할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "安定した職務",
+            "reading": "あんていしたしょくむ",
+            "meaning": "안정적인 직무.",
+            "note": "정규직·장기 고용 기반의 업무를 설명할 때 씁니다."
+          },
+          {
+            "term": "分解する",
+            "reading": "ぶんかいする",
+            "meaning": "분해하다.",
+            "note": "하나의 역할을 여러 작업 단위로 쪼갤 때 씁니다."
+          },
+          {
+            "term": "保護の少ない",
+            "reading": "ほごのすくない",
+            "meaning": "보호가 적은.",
+            "note": "고용 안정성, 복리후생, 노동권이 약한 상태를 말할 때 씁니다."
+          }
+        ],
+        "sources": [
+          "- [The Guardian, 2026-06-18 - AI threatens gig work rise](https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise)"
+        ],
+        "sourceFile": "2026-06-18 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-19",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-19",
+        "topic": "G7, AI governance, export controls",
+        "practice": "AI政策は、安全性の議論から、アクセス、標準、計算資源をめぐるハードパワー競争へ移っています。",
+        "issueCards": [
+          {
+            "title": "G7, AI governance, export controls",
+            "reading": "G7では、AIきぎょうのトップらが、ゆしゅつきせいやことなるルールが、せんしんAIをめぐるみんしゅしゅぎこっかのれんけいをぶんだんしかねないとけいこくしました。",
+            "original": "G7では、AI企業のトップらが、輸出規制や異なるルールが、先進AIをめぐる民主主義国家の連携を分断しかねないと警告しました。",
+            "korean": "G7에서 AI 기업 수장들은 수출 규제와 서로 다른 규칙이 첨단 AI를 둘러싼 민주주의 국가들의 연계를 분단시킬 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "輸出規制",
+                "reading": "ゆしゅつきせい",
+                "meaning": "수출 규제.",
+                "note": "전략 기술, 반도체, AI 모델의 해외 이전 제한을 설명할 때 씁니다."
+              },
+              {
+                "term": "連携を分断する",
+                "reading": "れんけいをぶんだんする",
+                "meaning": "연계를 분단하다.",
+                "note": "동맹국이나 파트너 간 협력이 갈라지는 상황을 말합니다."
+              },
+              {
+                "term": "先進AI",
+                "reading": "せんしんAI",
+                "meaning": "첨단 AI.",
+                "note": "고성능 AI 모델, 차세대 AI 시스템을 말할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "輸出規制",
+            "reading": "ゆしゅつきせい",
+            "meaning": "수출 규제.",
+            "note": "전략 기술, 반도체, AI 모델의 해외 이전 제한을 설명할 때 씁니다."
+          },
+          {
+            "term": "連携を分断する",
+            "reading": "れんけいをぶんだんする",
+            "meaning": "연계를 분단하다.",
+            "note": "동맹국이나 파트너 간 협력이 갈라지는 상황을 말합니다."
+          },
+          {
+            "term": "先進AI",
+            "reading": "せんしんAI",
+            "meaning": "첨단 AI.",
+            "note": "고성능 AI 모델, 차세대 AI 시스템을 말할 때 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Financial Times, 2026-06-19 - Anthropic chief tells G7 leaders to resist the temptation to splinter over AI](https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d)",
+          "- [The Economic Times, 2026-06-19 - Silicon Valley chiefs discuss gigawatts and guardrails at G7](https://m.economictimes.com/tech/technology/silicon-valley-chiefs-discuss-gigawatts-guardrails-at-g7/articleshow/131831507.cms)"
+        ],
+        "sourceFile": "2026-06-19 Japanese World Issue.md"
       }
     ],
     "Chinese": [
@@ -3603,6 +4393,125 @@
           "- [The Guardian, 2026-06-17 - G7 summit live coverage](https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates)"
         ],
         "sourceFile": "2026-06-17 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-18",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-18",
+        "topic": "AI, gig work, labor market",
+        "practice": "真正的风险不只是失业，还有现存工作中议价能力的弱化。",
+        "issueCards": [
+          {
+            "title": "AI, gig work, labor market",
+            "reading": "Rǔgōng zhìnéng bù yídìng zhǐshì qǔdài gōngzuò, yě kěnéng bǎ wěndìng zhíwèi qiēfēn chéng quēfá bǎozhàng de línggōng rènwù.",
+            "original": "人工智能不一定只是取代工作，也可能把稳定职位切分成缺乏保障的零工任务。",
+            "korean": "AI는 반드시 일자리를 대체하기만 하는 것이 아니라, 안정적인 직위를 보호가 부족한 긱워크식 업무로 나눌 수도 있습니다.",
+            "expressions": [
+              {
+                "term": "稳定职位",
+                "reading": "wěndìng zhíwèi",
+                "meaning": "안정적인 직위.",
+                "note": "정규직, 장기 고용, 복리후생이 있는 일자리를 말할 때 씁니다."
+              },
+              {
+                "term": "切分成",
+                "reading": "qiēfēn chéng",
+                "meaning": "…로 잘게 나누다.",
+                "note": "하나의 업무나 구조를 여러 단위로 분해할 때 씁니다."
+              },
+              {
+                "term": "缺乏保障的零工任务",
+                "reading": "quēfá bǎozhàng de línggōng rènwù",
+                "meaning": "보호가 부족한 긱워크식 업무.",
+                "note": "플랫폼 노동, 단기 계약, 프리랜서 업무의 불안정성을 설명할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "稳定职位",
+            "reading": "wěndìng zhíwèi",
+            "meaning": "안정적인 직위.",
+            "note": "정규직, 장기 고용, 복리후생이 있는 일자리를 말할 때 씁니다."
+          },
+          {
+            "term": "切分成",
+            "reading": "qiēfēn chéng",
+            "meaning": "…로 잘게 나누다.",
+            "note": "하나의 업무나 구조를 여러 단위로 분해할 때 씁니다."
+          },
+          {
+            "term": "缺乏保障的零工任务",
+            "reading": "quēfá bǎozhàng de línggōng rènwù",
+            "meaning": "보호가 부족한 긱워크식 업무.",
+            "note": "플랫폼 노동, 단기 계약, 프리랜서 업무의 불안정성을 설명할 때 씁니다."
+          }
+        ],
+        "sources": [
+          "- [The Guardian, 2026-06-18 - AI threatens gig work rise](https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise)"
+        ],
+        "sourceFile": "2026-06-18 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-19",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-19",
+        "topic": "G7, AI governance, export controls",
+        "practice": "AI政策正从安全讨论，转向对准入、标准和算力的硬实力竞争。",
+        "issueCards": [
+          {
+            "title": "G7, AI governance, export controls",
+            "reading": "Zài Qīguó Jítuán fēnghuì shàng, réngōng zhìnéng qǐyè lǐngxiù jǐnggào shuō, chūkǒu guǎnzhì hé fēnqí de guīzé kěnéng shǐ mínzhǔ guójiā zài xiānjìn AI shàng de hézuò fēnliè.",
+            "original": "在七国集团峰会上，人工智能企业领袖警告说，出口管制和分歧的规则可能使民主国家在先进AI上的合作分裂。",
+            "korean": "G7 정상회의에서 AI 기업 리더들은 수출통제와 갈라지는 규칙이 첨단 AI 분야에서 민주주의 국가들의 협력을 분열시킬 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "出口管制",
+                "reading": "chūkǒu guǎnzhì",
+                "meaning": "수출통제.",
+                "note": "전략 기술, 반도체, AI 모델의 해외 이전 제한을 말할 때 씁니다."
+              },
+              {
+                "term": "分歧的规则",
+                "reading": "fēnqí de guīzé",
+                "meaning": "갈라지는 규칙, 서로 다른 규제.",
+                "note": "국가별 규제가 달라져 협력이 어려워지는 상황에서 씁니다."
+              },
+              {
+                "term": "合作分裂",
+                "reading": "hézuò fēnliè",
+                "meaning": "협력의 분열.",
+                "note": "동맹이나 파트너 간 공동 대응이 약화될 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "出口管制",
+            "reading": "chūkǒu guǎnzhì",
+            "meaning": "수출통제.",
+            "note": "전략 기술, 반도체, AI 모델의 해외 이전 제한을 말할 때 씁니다."
+          },
+          {
+            "term": "分歧的规则",
+            "reading": "fēnqí de guīzé",
+            "meaning": "갈라지는 규칙, 서로 다른 규제.",
+            "note": "국가별 규제가 달라져 협력이 어려워지는 상황에서 씁니다."
+          },
+          {
+            "term": "合作分裂",
+            "reading": "hézuò fēnliè",
+            "meaning": "협력의 분열.",
+            "note": "동맹이나 파트너 간 공동 대응이 약화될 때 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Financial Times, 2026-06-19 - Anthropic chief tells G7 leaders to resist the temptation to splinter over AI](https://www.ft.com/content/573925dd-6d41-4185-810d-2b848195903d)",
+          "- [The Economic Times, 2026-06-19 - Silicon Valley chiefs discuss gigawatts and guardrails at G7](https://m.economictimes.com/tech/technology/silicon-valley-chiefs-discuss-gigawatts-guardrails-at-g7/articleshow/131831507.cms)"
+        ],
+        "sourceFile": "2026-06-19 Chinese World Issue.md"
       }
     ]
   },
