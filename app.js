@@ -23,7 +23,7 @@ init();
 
 async function init() {
   try {
-    const response = await fetch("data/lessons.json");
+    const response = await fetch(`data/lessons.json?updated=${Date.now()}`, { cache: "no-store" });
     state.data = await response.json();
     state.date = newestDateFor(state.language, state.mode);
 
