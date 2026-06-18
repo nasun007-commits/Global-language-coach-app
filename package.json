@@ -1,0 +1,12 @@
+{
+  "name": "global-language-coach-app",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "python3 scripts/build_data.py",
+    "bump": "python3 scripts/bump_version.py",
+    "update": "python3 scripts/build_data.py && python3 scripts/bump_version.py",
+    "start": "python3 -m http.server 4176"
+  }
+}

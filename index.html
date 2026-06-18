@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#ffd60a" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Language Coach" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
+    <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css?v=7" />
+    <title>Global Language Coach</title>
+  </head>
+  <body>
+    <div id="splash" class="splash" aria-label="앱 로딩 중">
+      <div class="splash-mark">
+        <img src="assets/mascot.svg" alt="SUN identity icon" />
+      </div>
+      <div class="splash-text">
+        <strong>Global Language Coach</strong>
+        <span>Preparing today's cards</span>
+      </div>
+      <div class="splash-progress" aria-hidden="true"><span></span></div>
+    </div>
+
+    <div id="app" class="shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Daily Pocket Coach</p>
+          <h1>Global Language Coach</h1>
+        </div>
+        <img class="mascot" src="assets/mascot.svg" alt="SUN identity icon" />
+      </header>
+
+      <main>
+        <section class="hero">
+          <div>
+            <p class="date-label" id="todayLabel">오늘의 학습</p>
+            <h2 id="heroTitle">언어 감각을 조금씩 모아요</h2>
+            <p id="heroCopy">영어, 일본어, 중국어 문장과 세계 이슈 표현을 카드처럼 가볍게 복습할 수 있어요.</p>
+          </div>
+          <button class="primary-action" id="randomCardButton" type="button">랜덤 카드</button>
+        </section>
+
+        <section class="filters" aria-label="학습 필터">
+          <div class="segmented" id="languageTabs"></div>
+          <div class="segmented compact" id="modeTabs"></div>
+        </section>
+
+        <section class="stats" id="stats"></section>
+
+        <section class="content-grid">
+          <article class="study-panel">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow" id="activeTypeLabel">Sentences</p>
+                <h2 id="activeTitle">학습 카드</h2>
+              </div>
+              <select id="dateSelect" aria-label="날짜 선택"></select>
+            </div>
+            <div id="cardList" class="card-list"></div>
+          </article>
+
+          <aside class="side-panel">
+            <div class="mini-panel">
+              <p class="eyebrow">오늘 바로 써보기</p>
+              <p id="practiceLine" class="practice-line">카드를 선택하면 바로 사용할 문장이 보여요.</p>
+            </div>
+            <div class="mini-panel">
+              <p class="eyebrow">표현 저장소</p>
+              <div id="expressionList" class="expression-list"></div>
+            </div>
+          </aside>
+        </section>
+      </main>
+
+      <nav class="bottom-nav" aria-label="주요 메뉴">
+        <button class="nav-button active" data-mode="daily" type="button">
+          <span>문장</span>
+        </button>
+        <button class="nav-button" data-mode="issues" type="button">
+          <span>이슈</span>
+        </button>
+        <button class="nav-button" data-mode="review" type="button">
+          <span>복습</span>
+        </button>
+      </nav>
+    </div>
+    <script type="module" src="app.js?v=7"></script>
+  </body>
+</html>

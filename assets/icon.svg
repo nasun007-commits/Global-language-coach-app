@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Global Language Coach">
+  <rect width="512" height="512" rx="112" fill="#f5f5f7"/>
+  <rect x="112" y="116" width="288" height="280" rx="72" fill="#ffffff"/>
+  <path d="M172 184h168M172 244h128M172 304h168" stroke="#1d1d1f" stroke-width="28" stroke-linecap="round"/>
+  <circle cx="354" cy="158" r="48" fill="#ffd60a"/>
+  <path d="M330 158h48M354 134v48" stroke="#1d1d1f" stroke-width="18" stroke-linecap="round"/>
+</svg>
