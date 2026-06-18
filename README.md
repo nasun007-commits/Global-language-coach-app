@@ -7,6 +7,7 @@
 맥이 꺼져도 아이폰에서 쓰려면 무료 정적 호스팅에 올립니다.
 
 추천 방식은 GitHub Pages입니다. 자세한 절차는 [DEPLOY.md](DEPLOY.md)를 참고합니다.
+현재 public 앱 저장소는 GitHub Actions로 Pages에 배포합니다.
 
 ## 실행
 
