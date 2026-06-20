@@ -107,6 +107,9 @@ function bindNav() {
     animateContentRefresh();
     render();
   });
+
+  $("#prevMonthButton").addEventListener("click", () => moveMonth(-1));
+  $("#nextMonthButton").addEventListener("click", () => moveMonth(1));
 }
 
 function bindInteractions() {
@@ -152,10 +155,14 @@ function renderDates() {
   const dates = lessonsFor(state.language, state.mode).map((lesson) => lesson.date).sort();
   const available = new Set(dates);
   const activeDate = state.date || dates.at(-1);
-  const monthBasis = activeDate || dates.at(-1) || new Date().toISOString().slice(0, 10);
-  const monthDates = datesForMonth(monthBasis);
+  const activeMonth = monthKey(activeDate || dates.at(-1) || new Date().toISOString().slice(0, 10));
+  const monthDates = datesForMonth(activeMonth);
+  const months = availableMonths();
+  const monthIndex = months.indexOf(activeMonth);
 
-  $("#monthLabel").textContent = formatMonthLabel(monthBasis);
+  $("#monthLabel").textContent = formatMonthLabel(activeMonth);
+  $("#prevMonthButton").disabled = monthIndex <= 0;
+  $("#nextMonthButton").disabled = monthIndex === -1 || monthIndex >= months.length - 1;
   $("#dateRail").innerHTML = monthDates
     .map((date) => dateChip(date, available.has(date), date === activeDate))
     .join("");
@@ -228,6 +235,8 @@ function showReview() {
   $("#heroTitle").textContent = "차곡차곡 쌓인 학습 기록";
   $("#heroCopy").textContent = "최근 날짜부터 문장과 이슈를 다시 열어보며 짧게 복습해요.";
   $("#monthLabel").textContent = "복습";
+  $("#prevMonthButton").disabled = true;
+  $("#nextMonthButton").disabled = true;
   $("#dateRail").innerHTML = "";
   $("#stats").innerHTML = [
     ["언어", labels[state.language]],
@@ -336,14 +345,34 @@ function activeLesson() {
   return lessonsFor(state.language, state.mode).find((lesson) => lesson.date === state.date);
 }
 
-function datesForMonth(dateString) {
-  const [year, month] = dateString.split("-").map(Number);
+function moveMonth(offset) {
+  const dates = lessonsFor(state.language, state.mode).map((lesson) => lesson.date).sort();
+  const months = availableMonths();
+  const activeMonth = monthKey(state.date || dates.at(-1) || new Date().toISOString().slice(0, 10));
+  const nextMonth = months[months.indexOf(activeMonth) + offset];
+  if (!nextMonth) return;
+  const nextDates = dates.filter((date) => monthKey(date) === nextMonth);
+  state.date = offset > 0 ? nextDates[0] : nextDates.at(-1);
+  animateContentRefresh();
+  render();
+}
+
+function availableMonths() {
+  return [...new Set(lessonsFor(state.language, state.mode).map((lesson) => monthKey(lesson.date)))].sort();
+}
+
+function datesForMonth(monthString) {
+  const [year, month] = monthString.split("-").map(Number);
   const lastDay = new Date(year, month, 0).getDate();
   return Array.from({ length: lastDay }, (_, index) => `${year}-${pad2(month)}-${pad2(index + 1)}`);
 }
 
-function formatMonthLabel(dateString) {
-  const [year, month] = dateString.split("-").map(Number);
+function monthKey(dateString) {
+  return dateString.slice(0, 7);
+}
+
+function formatMonthLabel(monthString) {
+  const [year, month] = monthString.split("-").map(Number);
   return `${year}년 ${month}월`;
 }
 

@@ -373,12 +373,38 @@ select {
   max-width: 330px;
 }
 
+.month-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
 .month-label {
   margin: 0;
   color: var(--ink);
   font-size: 0.95rem;
   font-weight: 760;
   text-align: right;
+}
+
+.month-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgba(245, 183, 0, 0.2);
+  border-radius: 999px;
+  color: var(--ink);
+  font-size: 1.1rem;
+  font-weight: 760;
+  background: rgba(255, 255, 255, 0.72);
+  transition: transform 180ms ease, background 180ms ease, opacity 180ms ease;
+}
+
+.month-button:disabled {
+  opacity: 0.26;
 }
 
 .date-rail {
@@ -743,5 +769,9 @@ select {
 
   .month-label {
     text-align: left;
+  }
+
+  .month-nav {
+    justify-content: flex-start;
   }
 }
