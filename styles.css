@@ -496,19 +496,18 @@ select {
   font-weight: 780;
 }
 
-.calendar-day small {
-  font-size: 0.68rem;
-  font-weight: 740;
-}
-
 .calendar-day.has-content {
   color: var(--ink);
   border-color: rgba(245, 183, 0, 0.28);
   background: rgba(255, 246, 199, 0.78);
 }
 
-.calendar-day.has-content small {
-  color: #8a6a00;
+.calendar-day i {
+  width: 5px;
+  height: 5px;
+  border-radius: 999px;
+  background: var(--yellow-deep);
+  box-shadow: 0 0 0 3px rgba(255, 214, 10, 0.22);
 }
 
 .calendar-day.no-content {
@@ -879,7 +878,4 @@ select {
     min-height: 54px;
   }
 
-  .calendar-day small {
-    font-size: 0.62rem;
-  }
 }

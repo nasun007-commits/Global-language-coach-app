@@ -440,7 +440,7 @@ function calendarDay(date, available, active) {
       aria-label="${escapeHtml(formatDateLabel(date))}${available ? " 콘텐츠 있음" : " 콘텐츠 없음"}"
     >
       <span>${day}</span>
-      <small>${available ? "있음" : "없음"}</small>
+      ${available ? `<i aria-hidden="true"></i>` : ""}
     </button>
   `;
 }
