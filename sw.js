@@ -1,9 +1,9 @@
-const CACHE_NAME = "global-language-coach-v11";
+const CACHE_NAME = "global-language-coach-v12";
 const APP_SHELL = [
   "./",
   "./index.html",
-  "./styles.css?v=11",
-  "./app.js?v=11",
+  "./styles.css?v=12",
+  "./app.js?v=12",
   "./manifest.webmanifest",
   "./data/lessons.json",
   "./assets/icon.svg",

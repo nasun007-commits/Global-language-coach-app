@@ -53,9 +53,13 @@ function renderLanguageTabs() {
   root.querySelectorAll("button").forEach((button) => {
     button.addEventListener("click", () => {
       state.language = button.dataset.value;
-      state.date = newestDateFor(state.language, state.mode);
+      state.date = state.mode === "review" ? newestReviewDate(state.language) : newestDateFor(state.language, state.mode);
       animateContentRefresh();
-      render();
+      if (state.mode === "review") {
+        showReview();
+      } else {
+        render();
+      }
     });
   });
 }
@@ -79,6 +83,8 @@ function bindNav() {
   document.querySelectorAll(".nav-button").forEach((button) => {
     button.addEventListener("click", () => {
       if (button.dataset.mode === "review") {
+        state.mode = "review";
+        state.date = newestReviewDate(state.language);
         showReview();
         return;
       }
@@ -105,7 +111,11 @@ function bindNav() {
     if (!button || button.disabled) return;
     state.date = button.dataset.date;
     animateContentRefresh();
-    render();
+    if (state.mode === "review") {
+      showReview();
+    } else {
+      render();
+    }
   });
 
   $("#prevMonthButton").addEventListener("click", () => moveMonth(-1));
@@ -221,42 +231,49 @@ function renderContent() {
 
 function showReview() {
   animateContentRefresh();
+  state.mode = "review";
+  state.date = state.date || newestReviewDate(state.language);
   document.querySelectorAll(".nav-button").forEach((button) => {
     button.classList.toggle("active", button.dataset.mode === "review");
   });
+  renderLanguageTabs();
+  renderModeTabs();
 
-  const allLessons = [
-    ...lessonsFor(state.language, "daily").map((lesson) => ({ ...lesson, kind: "문장" })),
-    ...lessonsFor(state.language, "issues").map((lesson) => ({ ...lesson, kind: "이슈" }))
-  ].sort((a, b) => b.date.localeCompare(a.date));
+  const allLessons = reviewLessons(state.language);
+  const months = availableMonths();
+  const activeMonth = monthKey(state.date || allLessons[0]?.date || new Date().toISOString().slice(0, 10));
+  const monthIndex = months.indexOf(activeMonth);
+  const selected = reviewLessonsForDate(state.language, state.date);
 
   $("#activeTypeLabel").textContent = "Review";
-  $("#activeTitle").textContent = `${labels[state.language]} 복습 리스트`;
-  $("#heroTitle").textContent = "차곡차곡 쌓인 학습 기록";
-  $("#heroCopy").textContent = "최근 날짜부터 문장과 이슈를 다시 열어보며 짧게 복습해요.";
-  $("#monthLabel").textContent = "복습";
-  $("#prevMonthButton").disabled = true;
-  $("#nextMonthButton").disabled = true;
+  $("#activeTitle").textContent = `${labels[state.language]} 복습 달력`;
+  $("#heroTitle").textContent = "달력으로 다시 꺼내보는 학습 기록";
+  $("#heroCopy").textContent = "콘텐츠가 있는 날을 누르면 그날의 문장과 세계 이슈를 함께 복습할 수 있어요.";
+  $("#monthLabel").textContent = formatMonthLabel(activeMonth);
+  $("#prevMonthButton").disabled = monthIndex <= 0;
+  $("#nextMonthButton").disabled = monthIndex === -1 || monthIndex >= months.length - 1;
   $("#dateRail").innerHTML = "";
   $("#stats").innerHTML = [
     ["언어", labels[state.language]],
     ["기록", allLessons.length],
-    ["최근", allLessons[0]?.date || "-"],
-    ["모드", "복습"]
+    ["선택", state.date || "-"],
+    ["월", formatMonthLabel(activeMonth)]
   ].map(([label, value]) => `<div class="stat"><span>${label}</span><strong>${value}</strong></div>`).join("");
 
-  $("#cardList").innerHTML = allLessons.map((lesson) => `
-    <button class="lesson-card review-card" type="button" data-kind="${lesson.kind}" data-date="${lesson.date}">
-      <h3>${lesson.kind} · ${lesson.date}</h3>
-      <p class="translation">${escapeHtml(lesson.title)}</p>
-    </button>
-  `).join("");
+  $("#cardList").innerHTML = `
+    ${reviewCalendar(activeMonth)}
+    ${reviewDayContent(selected)}
+  `;
+  $("#expressionList").innerHTML = selected.length
+    ? selected.flatMap((lesson) => lesson.expressions || []).slice(0, 12).map(expressionItem).join("")
+    : `<div class="empty">이 날짜에는 저장된 표현이 없어요.</div>`;
+  $("#practiceLine").textContent = selected[0]?.practice || "콘텐츠가 있는 날짜를 누르면 복습할 내용이 여기에 이어져요.";
 
-  document.querySelectorAll(".review-card").forEach((card) => {
-    card.addEventListener("click", () => {
-      state.mode = card.dataset.kind === "문장" ? "daily" : "issues";
-      state.date = card.dataset.date;
-      render();
+  document.querySelectorAll(".calendar-day.has-content").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.date = button.dataset.date;
+      animateContentRefresh();
+      showReview();
     });
   });
 }
@@ -337,6 +354,25 @@ function lessonsFor(language, mode) {
   return state.data?.[mode]?.[language] || [];
 }
 
+function reviewLessons(language) {
+  return [
+    ...lessonsFor(language, "daily").map((lesson) => ({ ...lesson, kind: "문장", reviewMode: "daily" })),
+    ...lessonsFor(language, "issues").map((lesson) => ({ ...lesson, kind: "이슈", reviewMode: "issues" }))
+  ].sort((a, b) => b.date.localeCompare(a.date));
+}
+
+function reviewDates(language) {
+  return [...new Set(reviewLessons(language).map((lesson) => lesson.date))].sort();
+}
+
+function newestReviewDate(language) {
+  return reviewDates(language).at(-1) || null;
+}
+
+function reviewLessonsForDate(language, date) {
+  return reviewLessons(language).filter((lesson) => lesson.date === date);
+}
+
 function newestDateFor(language, mode) {
   return lessonsFor(language, mode).map((lesson) => lesson.date).sort().pop() || null;
 }
@@ -346,7 +382,9 @@ function activeLesson() {
 }
 
 function moveMonth(offset) {
-  const dates = lessonsFor(state.language, state.mode).map((lesson) => lesson.date).sort();
+  const dates = state.mode === "review"
+    ? reviewDates(state.language)
+    : lessonsFor(state.language, state.mode).map((lesson) => lesson.date).sort();
   const months = availableMonths();
   const activeMonth = monthKey(state.date || dates.at(-1) || new Date().toISOString().slice(0, 10));
   const nextMonth = months[months.indexOf(activeMonth) + offset];
@@ -354,11 +392,80 @@ function moveMonth(offset) {
   const nextDates = dates.filter((date) => monthKey(date) === nextMonth);
   state.date = offset > 0 ? nextDates[0] : nextDates.at(-1);
   animateContentRefresh();
-  render();
+  if (state.mode === "review") {
+    showReview();
+  } else {
+    render();
+  }
 }
 
 function availableMonths() {
-  return [...new Set(lessonsFor(state.language, state.mode).map((lesson) => monthKey(lesson.date)))].sort();
+  const dates = state.mode === "review"
+    ? reviewDates(state.language)
+    : lessonsFor(state.language, state.mode).map((lesson) => lesson.date);
+  return [...new Set(dates.map((date) => monthKey(date)))].sort();
+}
+
+function reviewCalendar(monthString) {
+  const available = new Set(reviewDates(state.language));
+  const monthDates = datesForMonth(monthString);
+  const [year, month] = monthString.split("-").map(Number);
+  const firstDay = new Date(year, month - 1, 1).getDay();
+  const cells = [
+    ...Array.from({ length: firstDay }, () => ""),
+    ...monthDates
+  ];
+  const weekdays = ["일", "월", "화", "수", "목", "금", "토"];
+
+  return `
+    <section class="review-calendar" aria-label="${escapeHtml(formatMonthLabel(monthString))} 복습 달력">
+      <div class="calendar-weekdays">
+        ${weekdays.map((day) => `<span>${day}</span>`).join("")}
+      </div>
+      <div class="calendar-grid">
+        ${cells.map((date) => date ? calendarDay(date, available.has(date), date === state.date) : `<span class="calendar-empty"></span>`).join("")}
+      </div>
+    </section>
+  `;
+}
+
+function calendarDay(date, available, active) {
+  const day = Number(date.slice(8, 10));
+  return `
+    <button
+      class="calendar-day${available ? " has-content" : " no-content"}${active ? " active" : ""}"
+      type="button"
+      data-date="${escapeHtml(date)}"
+      ${available ? "" : "disabled"}
+      aria-label="${escapeHtml(formatDateLabel(date))}${available ? " 콘텐츠 있음" : " 콘텐츠 없음"}"
+    >
+      <span>${day}</span>
+      <small>${available ? "있음" : "없음"}</small>
+    </button>
+  `;
+}
+
+function reviewDayContent(lessons) {
+  if (!lessons.length) {
+    return `<div class="empty">선택한 날짜에는 아직 복습할 콘텐츠가 없어요.</div>`;
+  }
+
+  return `
+    <section class="review-day-content">
+      ${lessons.map((lesson) => {
+        const cards = lesson.reviewMode === "daily" ? lesson.sentences : lesson.issueCards;
+        return `
+          <div class="review-day-section">
+            <p class="eyebrow">${escapeHtml(lesson.kind)} · ${escapeHtml(lesson.date)}</p>
+            <h3>${escapeHtml(lesson.title)}</h3>
+            <div class="review-card-stack">
+              ${(cards || []).map((card) => lessonCard(card, lesson.reviewMode === "daily")).join("")}
+            </div>
+          </div>
+        `;
+      }).join("")}
+    </section>
+  `;
 }
 
 function datesForMonth(monthString) {

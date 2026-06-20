@@ -451,6 +451,100 @@ select {
   box-shadow: none;
 }
 
+.review-calendar {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.68);
+}
+
+.calendar-weekdays,
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 7px;
+}
+
+.calendar-weekdays span {
+  color: var(--soft);
+  font-size: 0.76rem;
+  font-weight: 740;
+  text-align: center;
+}
+
+.calendar-empty {
+  min-height: 62px;
+}
+
+.calendar-day {
+  display: grid;
+  place-items: center;
+  gap: 3px;
+  min-height: 62px;
+  padding: 8px 4px;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 8px;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.5);
+  transition: transform 180ms ease, background 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.calendar-day span {
+  font-size: 1rem;
+  font-weight: 780;
+}
+
+.calendar-day small {
+  font-size: 0.68rem;
+  font-weight: 740;
+}
+
+.calendar-day.has-content {
+  color: var(--ink);
+  border-color: rgba(245, 183, 0, 0.28);
+  background: rgba(255, 246, 199, 0.78);
+}
+
+.calendar-day.has-content small {
+  color: #8a6a00;
+}
+
+.calendar-day.no-content {
+  opacity: 0.58;
+}
+
+.calendar-day.active {
+  border-color: rgba(245, 183, 0, 0.78);
+  background: var(--yellow);
+  box-shadow: 0 10px 22px rgba(245, 183, 0, 0.22);
+}
+
+.review-day-content {
+  display: grid;
+  gap: 14px;
+}
+
+.review-day-section {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.64);
+}
+
+.review-day-section h3 {
+  margin-bottom: 2px;
+  font-size: 1rem;
+}
+
+.review-card-stack {
+  display: grid;
+  gap: 10px;
+}
+
 .card-list {
   display: grid;
   gap: 12px;
@@ -773,5 +867,19 @@ select {
 
   .month-nav {
     justify-content: flex-start;
+  }
+
+  .calendar-weekdays,
+  .calendar-grid {
+    gap: 5px;
+  }
+
+  .calendar-day,
+  .calendar-empty {
+    min-height: 54px;
+  }
+
+  .calendar-day small {
+    font-size: 0.62rem;
   }
 }
