@@ -366,6 +366,65 @@ select {
   background: rgba(255, 255, 255, 0.84);
 }
 
+.date-picker {
+  display: grid;
+  gap: 9px;
+  min-width: min(100%, 250px);
+  max-width: 330px;
+}
+
+.month-label {
+  margin: 0;
+  color: var(--ink);
+  font-size: 0.95rem;
+  font-weight: 760;
+  text-align: right;
+}
+
+.date-rail {
+  display: flex;
+  gap: 8px;
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 2px 2px 10px;
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+}
+
+.date-rail::-webkit-scrollbar {
+  display: none;
+}
+
+.date-chip {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border: 1px solid rgba(245, 183, 0, 0.22);
+  border-radius: 999px;
+  color: var(--ink);
+  font-weight: 760;
+  background: rgba(255, 255, 255, 0.86);
+  box-shadow: var(--small-shadow);
+  scroll-snap-align: center;
+  transition: transform 180ms ease, background 180ms ease, border-color 180ms ease;
+}
+
+.date-chip.active {
+  border-color: rgba(245, 183, 0, 0.6);
+  background: var(--yellow);
+  box-shadow: 0 10px 22px rgba(245, 183, 0, 0.24);
+}
+
+.date-chip:disabled {
+  color: rgba(29, 29, 31, 0.28);
+  border-color: rgba(0, 0, 0, 0.05);
+  background: rgba(255, 255, 255, 0.42);
+  box-shadow: none;
+}
+
 .card-list {
   display: grid;
   gap: 12px;
@@ -676,5 +735,13 @@ select {
   select {
     max-width: none;
     width: 100%;
+  }
+
+  .date-picker {
+    max-width: none;
+  }
+
+  .month-label {
+    text-align: left;
   }
 }

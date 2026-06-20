@@ -100,8 +100,10 @@ function bindNav() {
     window.scrollTo({ top: document.querySelector(".content-grid").offsetTop - 12, behavior: "smooth" });
   });
 
-  $("#dateSelect").addEventListener("change", (event) => {
-    state.date = event.target.value;
+  $("#dateRail").addEventListener("click", (event) => {
+    const button = event.target.closest(".date-chip");
+    if (!button || button.disabled) return;
+    state.date = button.dataset.date;
     animateContentRefresh();
     render();
   });
@@ -147,10 +149,20 @@ function render() {
 }
 
 function renderDates() {
-  const dates = lessonsFor(state.language, state.mode).map((lesson) => lesson.date).sort().reverse();
-  $("#dateSelect").innerHTML = dates
-    .map((date) => `<option value="${escapeHtml(date)}"${date === state.date ? " selected" : ""}>${escapeHtml(date)}</option>`)
+  const dates = lessonsFor(state.language, state.mode).map((lesson) => lesson.date).sort();
+  const available = new Set(dates);
+  const activeDate = state.date || dates.at(-1);
+  const monthBasis = activeDate || dates.at(-1) || new Date().toISOString().slice(0, 10);
+  const monthDates = datesForMonth(monthBasis);
+
+  $("#monthLabel").textContent = formatMonthLabel(monthBasis);
+  $("#dateRail").innerHTML = monthDates
+    .map((date) => dateChip(date, available.has(date), date === activeDate))
     .join("");
+
+  requestAnimationFrame(() => {
+    $("#dateRail .date-chip.active")?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+  });
 }
 
 function renderStats() {
@@ -215,7 +227,8 @@ function showReview() {
   $("#activeTitle").textContent = `${labels[state.language]} 복습 리스트`;
   $("#heroTitle").textContent = "차곡차곡 쌓인 학습 기록";
   $("#heroCopy").textContent = "최근 날짜부터 문장과 이슈를 다시 열어보며 짧게 복습해요.";
-  $("#dateSelect").innerHTML = "";
+  $("#monthLabel").textContent = "복습";
+  $("#dateRail").innerHTML = "";
   $("#stats").innerHTML = [
     ["언어", labels[state.language]],
     ["기록", allLessons.length],
@@ -290,6 +303,21 @@ function tabButton(value, label, active) {
   return `<button type="button" data-value="${escapeHtml(value)}" class="${active ? "active" : ""}">${escapeHtml(label)}</button>`;
 }
 
+function dateChip(date, available, active) {
+  const day = Number(date.slice(8, 10));
+  return `
+    <button
+      class="date-chip${active ? " active" : ""}"
+      type="button"
+      data-date="${escapeHtml(date)}"
+      ${available ? "" : "disabled"}
+      aria-label="${escapeHtml(formatDateLabel(date))}"
+    >
+      <span>${day}</span>
+    </button>
+  `;
+}
+
 function updateBottomNav() {
   document.querySelectorAll(".nav-button").forEach((button) => {
     button.classList.toggle("active", button.dataset.mode === state.mode);
@@ -306,6 +334,26 @@ function newestDateFor(language, mode) {
 
 function activeLesson() {
   return lessonsFor(state.language, state.mode).find((lesson) => lesson.date === state.date);
+}
+
+function datesForMonth(dateString) {
+  const [year, month] = dateString.split("-").map(Number);
+  const lastDay = new Date(year, month, 0).getDate();
+  return Array.from({ length: lastDay }, (_, index) => `${year}-${pad2(month)}-${pad2(index + 1)}`);
+}
+
+function formatMonthLabel(dateString) {
+  const [year, month] = dateString.split("-").map(Number);
+  return `${year}년 ${month}월`;
+}
+
+function formatDateLabel(dateString) {
+  const [year, month, day] = dateString.split("-").map(Number);
+  return `${year}년 ${month}월 ${day}일`;
+}
+
+function pad2(value) {
+  return String(value).padStart(2, "0");
 }
 
 function escapeHtml(value) {

@@ -10,7 +10,7 @@
     <link rel="manifest" href="manifest.webmanifest" />
     <link rel="apple-touch-icon" href="assets/apple-touch-icon.png" />
     <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
-    <link rel="stylesheet" href="styles.css?v=9" />
+    <link rel="stylesheet" href="styles.css?v=10" />
     <title>Global Language Coach</title>
   </head>
   <body>
@@ -58,7 +58,10 @@
                 <p class="eyebrow" id="activeTypeLabel">Sentences</p>
                 <h2 id="activeTitle">학습 카드</h2>
               </div>
-              <select id="dateSelect" aria-label="날짜 선택"></select>
+              <div class="date-picker" aria-label="날짜 선택">
+                <p class="month-label" id="monthLabel">2026년 6월</p>
+                <div class="date-rail" id="dateRail"></div>
+              </div>
             </div>
             <div id="cardList" class="card-list"></div>
           </article>
@@ -88,6 +91,6 @@
         </button>
       </nav>
     </div>
-    <script type="module" src="app.js?v=9"></script>
+    <script type="module" src="app.js?v=10"></script>
   </body>
 </html>
