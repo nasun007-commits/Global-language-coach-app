@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T16:38:21.247763+00:00",
+  "generatedAt": "2026-06-23T15:11:33.666462+00:00",
   "daily": {
     "English": [
       {
@@ -809,6 +809,86 @@
           }
         ],
         "sourceFile": "2026-06-19 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-23",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-23",
+        "practice": "We should document the decision while the context is still fresh.",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "Let's pressure-test the timeline before we commit to it externally.",
+            "korean": "외부에 약속하기 전에 일정이 현실적인지 먼저 검증합시다.",
+            "expressions": [
+              {
+                "term": "pressure-test the timeline",
+                "meaning": "일정이 압박 상황에서도 가능한지 검증하다. 고객이나 파트너에게 납기를 약속하기 전 씁니다."
+              },
+              {
+                "term": "commit to it externally",
+                "meaning": "외부 이해관계자에게 공식적으로 약속하다. 계약, 발표, 대외 커뮤니케이션에서 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "The numbers look solid, but the underlying assumptions need more scrutiny.",
+            "korean": "수치는 탄탄해 보이지만, 그 밑에 깔린 가정은 더 면밀히 검토해야 합니다.",
+            "expressions": [
+              {
+                "term": "underlying assumptions",
+                "meaning": "밑에 깔린 전제. 예측, 전략, 재무 모델의 기반이 되는 가정을 말합니다."
+              },
+              {
+                "term": "scrutiny",
+                "meaning": "면밀한 검토. 리스크나 오류 가능성을 자세히 살필 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "We should document the decision while the context is still fresh.",
+            "korean": "맥락이 아직 생생할 때 그 결정을 문서화해야 합니다.",
+            "expressions": [
+              {
+                "term": "document the decision",
+                "meaning": "결정을 문서화하다. 나중에 판단 근거를 추적할 수 있도록 기록하는 것입니다."
+              },
+              {
+                "term": "while the context is still fresh",
+                "meaning": "맥락이 아직 기억에 선명할 때. 회의 직후 기록을 남길 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "pressure-test the timeline",
+            "meaning": "일정이 압박 상황에서도 가능한지 검증하다. 고객이나 파트너에게 납기를 약속하기 전 씁니다."
+          },
+          {
+            "term": "commit to it externally",
+            "meaning": "외부 이해관계자에게 공식적으로 약속하다. 계약, 발표, 대외 커뮤니케이션에서 씁니다."
+          },
+          {
+            "term": "underlying assumptions",
+            "meaning": "밑에 깔린 전제. 예측, 전략, 재무 모델의 기반이 되는 가정을 말합니다."
+          },
+          {
+            "term": "scrutiny",
+            "meaning": "면밀한 검토. 리스크나 오류 가능성을 자세히 살필 때 씁니다."
+          },
+          {
+            "term": "document the decision",
+            "meaning": "결정을 문서화하다. 나중에 판단 근거를 추적할 수 있도록 기록하는 것입니다."
+          },
+          {
+            "term": "while the context is still fresh",
+            "meaning": "맥락이 아직 기억에 선명할 때. 회의 직후 기록을 남길 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-23 English Daily Sentences.md"
       }
     ],
     "Japanese": [
@@ -1827,6 +1907,110 @@
           }
         ],
         "sourceFile": "2026-06-19 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-23",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-23",
+        "practice": "文脈がまだ新しいうちに、この決定を記録しておきましょう。",
+        "sentences": [
+          {
+            "reading": "たいがいにやくそくするまえに、このスケジュールにむりがないかけんしょうしましょう。",
+            "original": "対外に約束する前に、このスケジュールに無理がないか検証しましょう。",
+            "korean": "외부에 약속하기 전에 이 일정에 무리가 없는지 검증합시다.",
+            "expressions": [
+              {
+                "term": "対外に約束する",
+                "reading": "たいがいにやくそくする",
+                "meaning": "외부에 약속하다.",
+                "note": "고객, 파트너, 시장을 상대로 일정을 확정할 때 씁니다."
+              },
+              {
+                "term": "無理がないか検証する",
+                "reading": "むりがないかけんしょうする",
+                "meaning": "무리가 없는지 검증하다.",
+                "note": "일정, 예산, 리소스가 현실적인지 확인할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "すうじはしっかりしていますが、ぜんていじょうけんはさらにせいさするひつようがあります。",
+            "original": "数字はしっかりしていますが、前提条件はさらに精査する必要があります。",
+            "korean": "수치는 탄탄하지만 전제 조건은 더 정밀하게 검토할 필요가 있습니다.",
+            "expressions": [
+              {
+                "term": "前提条件",
+                "reading": "ぜんていじょうけん",
+                "meaning": "전제 조건.",
+                "note": "계획이나 분석이 성립하기 위한 조건을 말할 때 씁니다."
+              },
+              {
+                "term": "精査する",
+                "reading": "せいさする",
+                "meaning": "정밀하게 검토하다.",
+                "note": "데이터, 계약, 리스크를 자세히 살필 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "ぶんみゃくがまだあたらしいうちに、このけっていをきろくしておきましょう。",
+            "original": "文脈がまだ新しいうちに、この決定を記録しておきましょう。",
+            "korean": "맥락이 아직 생생할 때 이 결정을 기록해 둡시다.",
+            "expressions": [
+              {
+                "term": "文脈が新しい",
+                "reading": "ぶんみゃくがあたらしい",
+                "meaning": "맥락이 아직 생생하다.",
+                "note": "회의 직후 상황과 판단 근거가 명확할 때 씁니다."
+              },
+              {
+                "term": "記録しておく",
+                "reading": "きろくしておく",
+                "meaning": "기록해 두다.",
+                "note": "결정 사항과 근거를 나중에 확인할 수 있게 남길 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "対外に約束する",
+            "reading": "たいがいにやくそくする",
+            "meaning": "외부에 약속하다.",
+            "note": "고객, 파트너, 시장을 상대로 일정을 확정할 때 씁니다."
+          },
+          {
+            "term": "無理がないか検証する",
+            "reading": "むりがないかけんしょうする",
+            "meaning": "무리가 없는지 검증하다.",
+            "note": "일정, 예산, 리소스가 현실적인지 확인할 때 씁니다."
+          },
+          {
+            "term": "前提条件",
+            "reading": "ぜんていじょうけん",
+            "meaning": "전제 조건.",
+            "note": "계획이나 분석이 성립하기 위한 조건을 말할 때 씁니다."
+          },
+          {
+            "term": "精査する",
+            "reading": "せいさする",
+            "meaning": "정밀하게 검토하다.",
+            "note": "데이터, 계약, 리스크를 자세히 살필 때 씁니다."
+          },
+          {
+            "term": "文脈が新しい",
+            "reading": "ぶんみゃくがあたらしい",
+            "meaning": "맥락이 아직 생생하다.",
+            "note": "회의 직후 상황과 판단 근거가 명확할 때 씁니다."
+          },
+          {
+            "term": "記録しておく",
+            "reading": "きろくしておく",
+            "meaning": "기록해 두다.",
+            "note": "결정 사항과 근거를 나중에 확인할 수 있게 남길 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-23 Japanese Daily Sentences.md"
       }
     ],
     "Chinese": [
@@ -2837,6 +3021,110 @@
           }
         ],
         "sourceFile": "2026-06-19 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-23",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-23",
+        "practice": "趁背景还很清晰，我们应该把这个决定记录下来。",
+        "sentences": [
+          {
+            "reading": "Zài duìwài chéngnuò zhīqián, wǒmen xiān yā lì cèshì yíxià zhège shíjiānbiǎo.",
+            "original": "在对外承诺之前，我们先压力测试一下这个时间表。",
+            "korean": "외부에 약속하기 전에 먼저 이 일정표를 압박 조건에서 검증해 봅시다.",
+            "expressions": [
+              {
+                "term": "对外承诺",
+                "reading": "duìwài chéngnuò",
+                "meaning": "외부에 약속하다.",
+                "note": "고객, 파트너, 시장을 상대로 공식 일정을 말할 때 씁니다."
+              },
+              {
+                "term": "压力测试",
+                "reading": "yā lì cèshì",
+                "meaning": "스트레스 테스트, 압박 조건 검증.",
+                "note": "일정, 재무 모델, 시스템 안정성을 검증할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Shùzì kànqǐlái hěn zhāshi, dàn qí dǐcéng jiǎshè hái xūyào gèng yángé de shěnshì.",
+            "original": "数字看起来很扎实，但其底层假设还需要更严格的审视。",
+            "korean": "수치는 탄탄해 보이지만 그 기저 가정은 더 엄격한 검토가 필요합니다.",
+            "expressions": [
+              {
+                "term": "底层假设",
+                "reading": "dǐcéng jiǎshè",
+                "meaning": "기저 가정, 밑바탕 전제.",
+                "note": "분석, 예측, 전략의 기반이 되는 전제를 말할 때 씁니다."
+              },
+              {
+                "term": "严格的审视",
+                "reading": "yángé de shěnshì",
+                "meaning": "엄격한 검토.",
+                "note": "리스크나 논리적 허점을 면밀히 점검할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Chèn bèijǐng hái hěn qīngxī, wǒmen yīnggāi bǎ zhège juédìng jìlù xiàlái.",
+            "original": "趁背景还很清晰，我们应该把这个决定记录下来。",
+            "korean": "배경 맥락이 아직 명확할 때 이 결정을 기록해 두어야 합니다.",
+            "expressions": [
+              {
+                "term": "趁……还很清晰",
+                "reading": "chèn……hái hěn qīngxī",
+                "meaning": "…이 아직 명확할 때를 이용해.",
+                "note": "기억이나 맥락이 흐려지기 전에 기록할 때 씁니다."
+              },
+              {
+                "term": "记录下来",
+                "reading": "jìlù xiàlái",
+                "meaning": "기록해 두다.",
+                "note": "회의 결론, 결정 근거, 후속 조치를 남길 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "对外承诺",
+            "reading": "duìwài chéngnuò",
+            "meaning": "외부에 약속하다.",
+            "note": "고객, 파트너, 시장을 상대로 공식 일정을 말할 때 씁니다."
+          },
+          {
+            "term": "压力测试",
+            "reading": "yā lì cèshì",
+            "meaning": "스트레스 테스트, 압박 조건 검증.",
+            "note": "일정, 재무 모델, 시스템 안정성을 검증할 때 씁니다."
+          },
+          {
+            "term": "底层假设",
+            "reading": "dǐcéng jiǎshè",
+            "meaning": "기저 가정, 밑바탕 전제.",
+            "note": "분석, 예측, 전략의 기반이 되는 전제를 말할 때 씁니다."
+          },
+          {
+            "term": "严格的审视",
+            "reading": "yángé de shěnshì",
+            "meaning": "엄격한 검토.",
+            "note": "리스크나 논리적 허점을 면밀히 점검할 때 씁니다."
+          },
+          {
+            "term": "趁……还很清晰",
+            "reading": "chèn……hái hěn qīngxī",
+            "meaning": "…이 아직 명확할 때를 이용해.",
+            "note": "기억이나 맥락이 흐려지기 전에 기록할 때 씁니다."
+          },
+          {
+            "term": "记录下来",
+            "reading": "jìlù xiàlái",
+            "meaning": "기록해 두다.",
+            "note": "회의 결론, 결정 근거, 후속 조치를 남길 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-23 Chinese Daily Sentences.md"
       }
     ]
   },
@@ -3330,6 +3618,54 @@
           "- [The Economic Times, June 19, 2026 - Silicon Valley chiefs discuss gigawatts and guardrails at G7](https://m.economictimes.com/tech/technology/silicon-valley-chiefs-discuss-gigawatts-guardrails-at-g7/articleshow/131831507.cms)"
         ],
         "sourceFile": "2026-06-19 English World Issue.md"
+      },
+      {
+        "date": "2026-06-23",
+        "language": "English",
+        "title": "English World Issue - 2026-06-23",
+        "topic": "AI regulation, copyright, data centres",
+        "practice": "정책 병목은 더 이상 모델 안전성만이 아니라, 법·에너지·토지 이용·저작권을 하나의 시스템으로 관리할 수 있느냐입니다.",
+        "issueCards": [
+          {
+            "title": "AI regulation, copyright, data centres",
+            "reading": "",
+            "original": "Australia's AI debate is shifting toward whether copyright rules, industry regulation, and fast-tracked data centres can keep pace with the technology.",
+            "korean": "호주의 AI 논의는 저작권 규칙, 산업 규제, 신속 승인되는 데이터센터가 기술 발전 속도를 따라갈 수 있는지의 문제로 이동하고 있습니다.",
+            "expressions": [
+              {
+                "term": "keep pace with the technology",
+                "meaning": "기술 발전 속도를 따라가다. 규제나 인프라가 혁신 속도에 뒤처지지 않는지 말할 때 씁니다."
+              },
+              {
+                "term": "fast-tracked data centres",
+                "meaning": "신속 승인되는 데이터센터. AI 인프라 수요 때문에 허가 절차를 빠르게 처리하는 시설을 말합니다."
+              },
+              {
+                "term": "industry regulation",
+                "meaning": "산업 규제. 기업 활동을 관리하는 법적·제도적 장치를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "keep pace with the technology",
+            "meaning": "기술 발전 속도를 따라가다. 규제나 인프라가 혁신 속도에 뒤처지지 않는지 말할 때 씁니다."
+          },
+          {
+            "term": "fast-tracked data centres",
+            "meaning": "신속 승인되는 데이터센터. AI 인프라 수요 때문에 허가 절차를 빠르게 처리하는 시설을 말합니다."
+          },
+          {
+            "term": "industry regulation",
+            "meaning": "산업 규제. 기업 활동을 관리하는 법적·제도적 장치를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [The Guardian, June 23, 2026 - Labor mulls copyright exemptions for AI training](https://www.theguardian.com/australia-news/2026/jun/23/labor-mulls-copyright-exemptions-for-ai-training-as-tech-firms-push-ahead-with-data-centres)",
+          "- [The Guardian, June 23, 2026 - Data centre fast-tracking concerns](https://www.theguardian.com/australia-news/2026/jun/23/huge-data-centre-set-to-be-fast-tracked-by-nsw-without-full-initial-environment-assessment)"
+        ],
+        "sourceFile": "2026-06-23 English World Issue.md"
       }
     ],
     "Japanese": [
@@ -3921,6 +4257,66 @@
           "- [The Economic Times, 2026-06-19 - Silicon Valley chiefs discuss gigawatts and guardrails at G7](https://m.economictimes.com/tech/technology/silicon-valley-chiefs-discuss-gigawatts-guardrails-at-g7/articleshow/131831507.cms)"
         ],
         "sourceFile": "2026-06-19 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-23",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-23",
+        "topic": "AI regulation, copyright, data centres",
+        "practice": "政策上のボトルネックは、モデルの安全性だけでなく、法律、エネルギー、土地利用、著作権を一つのシステムとして扱えるかです。",
+        "issueCards": [
+          {
+            "title": "AI regulation, copyright, data centres",
+            "reading": "オーストラリアのAIぎろんは、ちょさくけんルール、さんぎょうきせい、じんそくにしょうにんされるデータセンターが、ぎじゅつのしんてんについていけるかというもんだいへうつっています。",
+            "original": "オーストラリアのAI議論は、著作権ルール、産業規制、迅速に承認されるデータセンターが、技術の進展についていけるかという問題へ移っています。",
+            "korean": "호주의 AI 논의는 저작권 규칙, 산업 규제, 빠르게 승인되는 데이터센터가 기술 발전을 따라갈 수 있는지의 문제로 이동하고 있습니다.",
+            "expressions": [
+              {
+                "term": "著作権ルール",
+                "reading": "ちょさくけんルール",
+                "meaning": "저작권 규칙.",
+                "note": "AI 학습 데이터와 창작물 이용 범위를 논의할 때 씁니다."
+              },
+              {
+                "term": "産業規制",
+                "reading": "さんぎょうきせい",
+                "meaning": "산업 규제.",
+                "note": "기업 활동을 관리하는 법적·제도적 장치를 말합니다."
+              },
+              {
+                "term": "技術の進展についていく",
+                "reading": "ぎじゅつのしんてんについていく",
+                "meaning": "기술 발전을 따라가다.",
+                "note": "규제, 인프라, 조직 역량이 기술 변화 속도에 맞춰지는지 말할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "著作権ルール",
+            "reading": "ちょさくけんルール",
+            "meaning": "저작권 규칙.",
+            "note": "AI 학습 데이터와 창작물 이용 범위를 논의할 때 씁니다."
+          },
+          {
+            "term": "産業規制",
+            "reading": "さんぎょうきせい",
+            "meaning": "산업 규제.",
+            "note": "기업 활동을 관리하는 법적·제도적 장치를 말합니다."
+          },
+          {
+            "term": "技術の進展についていく",
+            "reading": "ぎじゅつのしんてんについていく",
+            "meaning": "기술 발전을 따라가다.",
+            "note": "규제, 인프라, 조직 역량이 기술 변화 속도에 맞춰지는지 말할 때 씁니다."
+          }
+        ],
+        "sources": [
+          "- [The Guardian, 2026-06-23 - Labor mulls copyright exemptions for AI training](https://www.theguardian.com/australia-news/2026/jun/23/labor-mulls-copyright-exemptions-for-ai-training-as-tech-firms-push-ahead-with-data-centres)",
+          "- [The Guardian, 2026-06-23 - Data centre fast-tracking concerns](https://www.theguardian.com/australia-news/2026/jun/23/huge-data-centre-set-to-be-fast-tracked-by-nsw-without-full-initial-environment-assessment)"
+        ],
+        "sourceFile": "2026-06-23 Japanese World Issue.md"
       }
     ],
     "Chinese": [
@@ -4512,6 +4908,66 @@
           "- [The Economic Times, 2026-06-19 - Silicon Valley chiefs discuss gigawatts and guardrails at G7](https://m.economictimes.com/tech/technology/silicon-valley-chiefs-discuss-gigawatts-guardrails-at-g7/articleshow/131831507.cms)"
         ],
         "sourceFile": "2026-06-19 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-23",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-23",
+        "topic": "AI regulation, copyright, data centres",
+        "practice": "政策瓶颈已经不只是模型安全，而是法律、能源、土地使用和著作权能否被一体化治理。",
+        "issueCards": [
+          {
+            "title": "AI regulation, copyright, data centres",
+            "reading": "Àodàlìyà de réngōng zhìnéng zhēnglùn zhèng zhuǎnxiàng yí gè gèng jùtǐ de wèntí: zhùzuòquán guīzé, hángyè jiānguǎn hé jiāsù shěnpī de shùjù zhōngxīn néngfǒu gēn shàng jìshù fāzhǎn.",
+            "original": "澳大利亚的人工智能争论正转向一个更具体的问题：著作权规则、行业监管和加速审批的数据中心能否跟上技术发展。",
+            "korean": "호주의 AI 논쟁은 저작권 규칙, 산업 규제, 신속 승인되는 데이터센터가 기술 발전을 따라갈 수 있는지라는 더 구체적인 문제로 이동하고 있습니다.",
+            "expressions": [
+              {
+                "term": "著作权规则",
+                "reading": "zhùzuòquán guīzé",
+                "meaning": "저작권 규칙.",
+                "note": "AI 학습 데이터, 콘텐츠 사용, 창작자 보상 논의에서 씁니다."
+              },
+              {
+                "term": "行业监管",
+                "reading": "hángyè jiānguǎn",
+                "meaning": "산업 규제.",
+                "note": "특정 산업의 기업 활동을 관리하는 제도와 규칙을 말합니다."
+              },
+              {
+                "term": "跟上技术发展",
+                "reading": "gēn shàng jìshù fāzhǎn",
+                "meaning": "기술 발전을 따라가다.",
+                "note": "규제, 인프라, 교육이 기술 변화 속도에 맞춰지는지 말할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "著作权规则",
+            "reading": "zhùzuòquán guīzé",
+            "meaning": "저작권 규칙.",
+            "note": "AI 학습 데이터, 콘텐츠 사용, 창작자 보상 논의에서 씁니다."
+          },
+          {
+            "term": "行业监管",
+            "reading": "hángyè jiānguǎn",
+            "meaning": "산업 규제.",
+            "note": "특정 산업의 기업 활동을 관리하는 제도와 규칙을 말합니다."
+          },
+          {
+            "term": "跟上技术发展",
+            "reading": "gēn shàng jìshù fāzhǎn",
+            "meaning": "기술 발전을 따라가다.",
+            "note": "규제, 인프라, 교육이 기술 변화 속도에 맞춰지는지 말할 때 씁니다."
+          }
+        ],
+        "sources": [
+          "- [The Guardian, 2026-06-23 - Labor mulls copyright exemptions for AI training](https://www.theguardian.com/australia-news/2026/jun/23/labor-mulls-copyright-exemptions-for-ai-training-as-tech-firms-push-ahead-with-data-centres)",
+          "- [The Guardian, 2026-06-23 - Data centre fast-tracking concerns](https://www.theguardian.com/australia-news/2026/jun/23/huge-data-centre-set-to-be-fast-tracked-by-nsw-without-full-initial-environment-assessment)"
+        ],
+        "sourceFile": "2026-06-23 Chinese World Issue.md"
       }
     ]
   },
