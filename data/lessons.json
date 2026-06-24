@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T15:11:33.666462+00:00",
+  "generatedAt": "2026-06-24T01:30:13.213416+00:00",
   "daily": {
     "English": [
       {
@@ -889,6 +889,86 @@
           }
         ],
         "sourceFile": "2026-06-23 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-24",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-24",
+        "practice": "We should preserve optionality until the regulatory picture becomes clearer.",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "Let's separate the signal from the noise before we escalate this.",
+            "korean": "이 사안을 상부에 올리기 전에 의미 있는 신호와 잡음을 구분합시다.",
+            "expressions": [
+              {
+                "term": "separate the signal from the noise",
+                "meaning": "중요한 정보와 불필요한 정보를 구분하다. 데이터나 고객 피드백을 판단할 때 씁니다."
+              },
+              {
+                "term": "escalate this",
+                "meaning": "사안을 상급자나 상위 조직에 보고하다. 현재 권한으로 해결하기 어려울 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "We should preserve optionality until the regulatory picture becomes clearer.",
+            "korean": "규제 상황이 더 명확해질 때까지 선택의 여지를 유지해야 합니다.",
+            "expressions": [
+              {
+                "term": "preserve optionality",
+                "meaning": "여러 선택지를 열어 두다. 불확실성이 큰 전략·투자 결정에서 씁니다."
+              },
+              {
+                "term": "regulatory picture",
+                "meaning": "전반적인 규제 상황. 법률과 정책의 방향을 포괄해 말할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you walk me through the assumptions that drive this estimate?",
+            "korean": "이 추정치의 근거가 되는 가정들을 차근차근 설명해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "walk someone through",
+                "meaning": "절차나 논리를 단계별로 설명하다. 분석 결과나 업무 흐름을 공유할 때 씁니다."
+              },
+              {
+                "term": "drive this estimate",
+                "meaning": "이 추정치를 좌우하다. 수치의 핵심 전제나 변수를 설명할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate the signal from the noise",
+            "meaning": "중요한 정보와 불필요한 정보를 구분하다. 데이터나 고객 피드백을 판단할 때 씁니다."
+          },
+          {
+            "term": "escalate this",
+            "meaning": "사안을 상급자나 상위 조직에 보고하다. 현재 권한으로 해결하기 어려울 때 씁니다."
+          },
+          {
+            "term": "preserve optionality",
+            "meaning": "여러 선택지를 열어 두다. 불확실성이 큰 전략·투자 결정에서 씁니다."
+          },
+          {
+            "term": "regulatory picture",
+            "meaning": "전반적인 규제 상황. 법률과 정책의 방향을 포괄해 말할 때 씁니다."
+          },
+          {
+            "term": "walk someone through",
+            "meaning": "절차나 논리를 단계별로 설명하다. 분석 결과나 업무 흐름을 공유할 때 씁니다."
+          },
+          {
+            "term": "drive this estimate",
+            "meaning": "이 추정치를 좌우하다. 수치의 핵심 전제나 변수를 설명할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-24 English Daily Sentences.md"
       }
     ],
     "Japanese": [
@@ -2011,6 +2091,110 @@
           }
         ],
         "sourceFile": "2026-06-23 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-24",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-24",
+        "practice": "規制の全容が見えるまでは、選択肢を残しておくべきです。",
+        "sentences": [
+          {
+            "reading": "じょうしにあげるまえに、じゅうようなしんごうとノイズをきりわけましょう。",
+            "original": "上司に上げる前に、重要な信号とノイズを切り分けましょう。",
+            "korean": "상사에게 보고하기 전에 중요한 신호와 잡음을 구분합시다.",
+            "expressions": [
+              {
+                "term": "切り分ける",
+                "reading": "きりわける",
+                "meaning": "구분하다, 분리해 분석하다.",
+                "note": "문제 원인이나 정보의 중요도를 나누어 볼 때 씁니다."
+              },
+              {
+                "term": "上司に上げる",
+                "reading": "じょうしにあげる",
+                "meaning": "상사에게 보고하다.",
+                "note": "문제를 상위 의사결정자에게 전달할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "きせいのぜんようがみえるまでは、せんたくしをのこしておくべきです。",
+            "original": "規制の全容が見えるまでは、選択肢を残しておくべきです。",
+            "korean": "규제의 전체 모습이 드러날 때까지 선택지를 남겨 두어야 합니다.",
+            "expressions": [
+              {
+                "term": "規制の全容が見える",
+                "reading": "きせいのぜんようがみえる",
+                "meaning": "규제의 전모가 드러나다.",
+                "note": "법과 정책의 구체적인 방향이 명확해질 때 씁니다."
+              },
+              {
+                "term": "選択肢を残す",
+                "reading": "せんたくしをのこす",
+                "meaning": "선택지를 남겨 두다.",
+                "note": "불확실한 상황에서 전략적 유연성을 유지할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "このみつもりをささえるぜんていを、じゅんをおってせつめいしてもらえますか。",
+            "original": "この見積もりを支える前提を、順を追って説明してもらえますか。",
+            "korean": "이 추정치를 뒷받침하는 전제를 순서대로 설명해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "順を追って",
+                "reading": "じゅんをおって",
+                "meaning": "순서대로, 단계별로.",
+                "note": "복잡한 절차나 논리를 차근차근 설명할 때 씁니다."
+              },
+              {
+                "term": "見積もりを支える前提",
+                "reading": "みつもりをささえるぜんてい",
+                "meaning": "추정치를 뒷받침하는 전제.",
+                "note": "예산이나 일정 산정의 근거를 검토할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "切り分ける",
+            "reading": "きりわける",
+            "meaning": "구분하다, 분리해 분석하다.",
+            "note": "문제 원인이나 정보의 중요도를 나누어 볼 때 씁니다."
+          },
+          {
+            "term": "上司に上げる",
+            "reading": "じょうしにあげる",
+            "meaning": "상사에게 보고하다.",
+            "note": "문제를 상위 의사결정자에게 전달할 때 씁니다."
+          },
+          {
+            "term": "規制の全容が見える",
+            "reading": "きせいのぜんようがみえる",
+            "meaning": "규제의 전모가 드러나다.",
+            "note": "법과 정책의 구체적인 방향이 명확해질 때 씁니다."
+          },
+          {
+            "term": "選択肢を残す",
+            "reading": "せんたくしをのこす",
+            "meaning": "선택지를 남겨 두다.",
+            "note": "불확실한 상황에서 전략적 유연성을 유지할 때 씁니다."
+          },
+          {
+            "term": "順を追って",
+            "reading": "じゅんをおって",
+            "meaning": "순서대로, 단계별로.",
+            "note": "복잡한 절차나 논리를 차근차근 설명할 때 씁니다."
+          },
+          {
+            "term": "見積もりを支える前提",
+            "reading": "みつもりをささえるぜんてい",
+            "meaning": "추정치를 뒷받침하는 전제.",
+            "note": "예산이나 일정 산정의 근거를 검토할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-24 Japanese Daily Sentences.md"
       }
     ],
     "Chinese": [
@@ -3125,6 +3309,110 @@
           }
         ],
         "sourceFile": "2026-06-23 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-24",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-24",
+        "practice": "在监管局势明朗之前，我们应该保留选择余地。",
+        "sentences": [
+          {
+            "reading": "Zài shàngbào zhīqián, wǒmen xiān bǎ yǒuxiào xìnhào hé záyīn fēn kāi.",
+            "original": "在上报之前，我们先把有效信号和杂音分开。",
+            "korean": "상부에 보고하기 전에 먼저 유효한 신호와 잡음을 구분합시다.",
+            "expressions": [
+              {
+                "term": "有效信号",
+                "reading": "yǒuxiào xìnhào",
+                "meaning": "유효한 신호, 의미 있는 정보.",
+                "note": "데이터, 시장 반응, 고객 의견에서 실제 의미가 있는 부분을 말할 때 씁니다."
+              },
+              {
+                "term": "上报",
+                "reading": "shàngbào",
+                "meaning": "상부에 보고하다.",
+                "note": "담당 권한을 넘어서는 문제를 상급 조직에 전달할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zài jiānguǎn júshì mínglǎng zhīqián, wǒmen yīnggāi bǎoliú xuǎnzé yúdì.",
+            "original": "在监管局势明朗之前，我们应该保留选择余地。",
+            "korean": "규제 상황이 명확해지기 전까지 선택의 여지를 남겨 두어야 합니다.",
+            "expressions": [
+              {
+                "term": "监管局势明朗",
+                "reading": "jiānguǎn júshì mínglǎng",
+                "meaning": "규제 상황이 명확해지다.",
+                "note": "정책 방향이나 법적 기준의 불확실성이 해소될 때 씁니다."
+              },
+              {
+                "term": "保留选择余地",
+                "reading": "bǎoliú xuǎnzé yúdì",
+                "meaning": "선택의 여지를 남겨 두다.",
+                "note": "전략적 유연성을 유지할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "Nǐ néng àn bùzhòu shuōmíng yíxià zhīchēng zhège gūsuàn de jiǎshè ma?",
+            "original": "你能按步骤说明一下支撑这个估算的假设吗？",
+            "korean": "이 추정치를 뒷받침하는 가정을 단계별로 설명해 주실 수 있나요?",
+            "expressions": [
+              {
+                "term": "按步骤说明",
+                "reading": "àn bùzhòu shuōmíng",
+                "meaning": "단계별로 설명하다.",
+                "note": "분석 논리나 절차를 차근차근 공유할 때 씁니다."
+              },
+              {
+                "term": "支撑估算的假设",
+                "reading": "zhīchēng gūsuàn de jiǎshè",
+                "meaning": "추정치를 뒷받침하는 가정.",
+                "note": "예측 모델이나 계획 수치의 근거를 검토할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "有效信号",
+            "reading": "yǒuxiào xìnhào",
+            "meaning": "유효한 신호, 의미 있는 정보.",
+            "note": "데이터, 시장 반응, 고객 의견에서 실제 의미가 있는 부분을 말할 때 씁니다."
+          },
+          {
+            "term": "上报",
+            "reading": "shàngbào",
+            "meaning": "상부에 보고하다.",
+            "note": "담당 권한을 넘어서는 문제를 상급 조직에 전달할 때 씁니다."
+          },
+          {
+            "term": "监管局势明朗",
+            "reading": "jiānguǎn júshì mínglǎng",
+            "meaning": "규제 상황이 명확해지다.",
+            "note": "정책 방향이나 법적 기준의 불확실성이 해소될 때 씁니다."
+          },
+          {
+            "term": "保留选择余地",
+            "reading": "bǎoliú xuǎnzé yúdì",
+            "meaning": "선택의 여지를 남겨 두다.",
+            "note": "전략적 유연성을 유지할 때 씁니다."
+          },
+          {
+            "term": "按步骤说明",
+            "reading": "àn bùzhòu shuōmíng",
+            "meaning": "단계별로 설명하다.",
+            "note": "분석 논리나 절차를 차근차근 공유할 때 씁니다."
+          },
+          {
+            "term": "支撑估算的假设",
+            "reading": "zhīchēng gūsuàn de jiǎshè",
+            "meaning": "추정치를 뒷받침하는 가정.",
+            "note": "예측 모델이나 계획 수치의 근거를 검토할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-24 Chinese Daily Sentences.md"
       }
     ]
   },
@@ -3666,6 +3954,54 @@
           "- [The Guardian, June 23, 2026 - Data centre fast-tracking concerns](https://www.theguardian.com/australia-news/2026/jun/23/huge-data-centre-set-to-be-fast-tracked-by-nsw-without-full-initial-environment-assessment)"
         ],
         "sourceFile": "2026-06-23 English World Issue.md"
+      },
+      {
+        "date": "2026-06-24",
+        "language": "English",
+        "title": "English World Issue - 2026-06-24",
+        "topic": "AI environmental transparency",
+        "practice": "AI 책임성은 모델의 행동을 넘어 기술 운영에 필요한 물리적 자원으로 확대되고 있습니다.",
+        "issueCards": [
+          {
+            "title": "AI environmental transparency",
+            "reading": "",
+            "original": "The UN is urging major AI companies to disclose their carbon, water, and land footprints and power data centres entirely with renewable energy by 2030.",
+            "korean": "유엔은 주요 AI 기업에 탄소·물·토지 사용 영향을 공개하고 2030년까지 데이터센터를 전적으로 재생에너지로 운영하라고 촉구하고 있습니다.",
+            "expressions": [
+              {
+                "term": "disclose an environmental footprint",
+                "meaning": "환경 영향을 공개하다. 기업 운영이 탄소, 물, 토지에 미치는 영향을 투명하게 밝힐 때 씁니다."
+              },
+              {
+                "term": "power data centres with renewable energy",
+                "meaning": "데이터센터를 재생에너지로 가동하다. AI 인프라의 에너지원 전환을 말합니다."
+              },
+              {
+                "term": "environmental transparency",
+                "meaning": "환경 투명성. 기업이 환경 비용과 자원 사용량을 측정·공개하는 원칙입니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "disclose an environmental footprint",
+            "meaning": "환경 영향을 공개하다. 기업 운영이 탄소, 물, 토지에 미치는 영향을 투명하게 밝힐 때 씁니다."
+          },
+          {
+            "term": "power data centres with renewable energy",
+            "meaning": "데이터센터를 재생에너지로 가동하다. AI 인프라의 에너지원 전환을 말합니다."
+          },
+          {
+            "term": "environmental transparency",
+            "meaning": "환경 투명성. 기업이 환경 비용과 자원 사용량을 측정·공개하는 원칙입니다."
+          }
+        ],
+        "sources": [
+          "- [United Nations, June 23, 2026 - Secretary-General address](https://egypt.un.org/en/317889-secretary-general-address-london-climate-action-week)",
+          "- [AP News, June 23, 2026 - AI companies urged to disclose environmental impact](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
+        ],
+        "sourceFile": "2026-06-24 English World Issue.md"
       }
     ],
     "Japanese": [
@@ -4317,6 +4653,66 @@
           "- [The Guardian, 2026-06-23 - Data centre fast-tracking concerns](https://www.theguardian.com/australia-news/2026/jun/23/huge-data-centre-set-to-be-fast-tracked-by-nsw-without-full-initial-environment-assessment)"
         ],
         "sourceFile": "2026-06-23 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-24",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-24",
+        "topic": "AI environmental transparency",
+        "practice": "AIの責任は、モデルの振る舞いだけでなく、技術を動かすための物理的資源にまで広がっています。",
+        "issueCards": [
+          {
+            "title": "AI environmental transparency",
+            "reading": "こくれんは、おおてAIきぎょうに、たんそ、みず、とちにかんするかんきょうふかをこうかいし、2030ねんまでにデータセンターをさいせいかのうエネルギーでかどうするようもとめています。",
+            "original": "国連は、大手AI企業に、炭素、水、土地に関する環境負荷を公開し、2030年までにデータセンターを再生可能エネルギーで稼働するよう求めています。",
+            "korean": "유엔은 주요 AI 기업에 탄소·물·토지 관련 환경 부담을 공개하고 2030년까지 데이터센터를 재생에너지로 가동하도록 요구하고 있습니다.",
+            "expressions": [
+              {
+                "term": "環境負荷を公開する",
+                "reading": "かんきょうふかをこうかいする",
+                "meaning": "환경 부담을 공개하다.",
+                "note": "기업의 탄소 배출과 물·토지 사용 영향을 투명하게 밝힐 때 씁니다."
+              },
+              {
+                "term": "再生可能エネルギー",
+                "reading": "さいせいかのうエネルギー",
+                "meaning": "재생에너지.",
+                "note": "태양광, 풍력 등 지속 가능한 에너지원을 말합니다."
+              },
+              {
+                "term": "環境透明性",
+                "reading": "かんきょうとうめいせい",
+                "meaning": "환경 투명성.",
+                "note": "환경 비용과 자원 사용을 측정·공개하는 원칙을 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "環境負荷を公開する",
+            "reading": "かんきょうふかをこうかいする",
+            "meaning": "환경 부담을 공개하다.",
+            "note": "기업의 탄소 배출과 물·토지 사용 영향을 투명하게 밝힐 때 씁니다."
+          },
+          {
+            "term": "再生可能エネルギー",
+            "reading": "さいせいかのうエネルギー",
+            "meaning": "재생에너지.",
+            "note": "태양광, 풍력 등 지속 가능한 에너지원을 말합니다."
+          },
+          {
+            "term": "環境透明性",
+            "reading": "かんきょうとうめいせい",
+            "meaning": "환경 투명성.",
+            "note": "환경 비용과 자원 사용을 측정·공개하는 원칙을 말합니다."
+          }
+        ],
+        "sources": [
+          "- [United Nations, 2026-06-23 - Secretary-General address](https://egypt.un.org/en/317889-secretary-general-address-london-climate-action-week)",
+          "- [AP News, 2026-06-23 - AI environmental impact](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
+        ],
+        "sourceFile": "2026-06-24 Japanese World Issue.md"
       }
     ],
     "Chinese": [
@@ -4968,6 +5364,66 @@
           "- [The Guardian, 2026-06-23 - Data centre fast-tracking concerns](https://www.theguardian.com/australia-news/2026/jun/23/huge-data-centre-set-to-be-fast-tracked-by-nsw-without-full-initial-environment-assessment)"
         ],
         "sourceFile": "2026-06-23 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-24",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-24",
+        "topic": "AI environmental transparency",
+        "practice": "AI问责正从模型行为扩展到运行技术所需的物理资源。",
+        "issueCards": [
+          {
+            "title": "AI environmental transparency",
+            "reading": "Liánhéguó hūyù dàxíng réngōng zhìnéng qǐyè gōngkāi qí tàn páifàng、yòngshuǐ hé tǔdì zújì, bìng zài èr líng sān líng nián qián shǐ shùjù zhōngxīn wánquán shǐyòng kě zàishēng néngyuán.",
+            "original": "联合国呼吁大型人工智能企业公开其碳排放、用水和土地足迹，并在2030年前使数据中心完全使用可再生能源。",
+            "korean": "유엔은 대형 AI 기업에 탄소 배출, 물 사용, 토지 이용 영향을 공개하고 2030년까지 데이터센터가 전적으로 재생에너지를 사용하도록 촉구했습니다.",
+            "expressions": [
+              {
+                "term": "公开环境足迹",
+                "reading": "gōngkāi huánjìng zújì",
+                "meaning": "환경 영향을 공개하다.",
+                "note": "기업의 탄소, 물, 토지 사용량을 투명하게 밝힐 때 씁니다."
+              },
+              {
+                "term": "可再生能源",
+                "reading": "kě zàishēng néngyuán",
+                "meaning": "재생에너지.",
+                "note": "태양광, 풍력 등 지속 가능한 에너지원을 말합니다."
+              },
+              {
+                "term": "环境透明度",
+                "reading": "huánjìng tòumíngdù",
+                "meaning": "환경 투명성.",
+                "note": "기업이 환경 비용과 자원 사용을 측정하고 공개하는 수준을 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "公开环境足迹",
+            "reading": "gōngkāi huánjìng zújì",
+            "meaning": "환경 영향을 공개하다.",
+            "note": "기업의 탄소, 물, 토지 사용량을 투명하게 밝힐 때 씁니다."
+          },
+          {
+            "term": "可再生能源",
+            "reading": "kě zàishēng néngyuán",
+            "meaning": "재생에너지.",
+            "note": "태양광, 풍력 등 지속 가능한 에너지원을 말합니다."
+          },
+          {
+            "term": "环境透明度",
+            "reading": "huánjìng tòumíngdù",
+            "meaning": "환경 투명성.",
+            "note": "기업이 환경 비용과 자원 사용을 측정하고 공개하는 수준을 말합니다."
+          }
+        ],
+        "sources": [
+          "- [United Nations, 2026-06-23 - Secretary-General address](https://egypt.un.org/en/317889-secretary-general-address-london-climate-action-week)",
+          "- [AP News, 2026-06-23 - AI environmental impact](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
+        ],
+        "sourceFile": "2026-06-24 Chinese World Issue.md"
       }
     ]
   },
