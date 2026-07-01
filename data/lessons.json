@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T10:55:07.290106+00:00",
+  "generatedAt": "2026-07-01T11:00:16.216883+00:00",
   "daily": {
     "English": [
       {
@@ -1049,6 +1049,86 @@
           }
         ],
         "sourceFile": "2026-06-29 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-07-01",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-07-01",
+        "practice": "Can we turn this into a repeatable workflow instead of a one-off fix?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "Let's align on the decision criteria before we compare vendors.",
+            "korean": "공급업체들을 비교하기 전에 의사결정 기준부터 맞춥시다.",
+            "expressions": [
+              {
+                "term": "align on the decision criteria",
+                "meaning": "의사결정 기준에 합의하다. 평가 회의나 구매 검토에서 씁니다."
+              },
+              {
+                "term": "compare vendors",
+                "meaning": "공급업체를 비교하다. 가격, 품질, 납기, 지원 조건을 검토할 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "This proposal looks promising, but the implementation burden is easy to underestimate.",
+            "korean": "이 제안은 유망해 보이지만, 실행 부담을 과소평가하기 쉽습니다.",
+            "expressions": [
+              {
+                "term": "implementation burden",
+                "meaning": "실행 부담. 실제 도입에 필요한 인력, 시간, 비용을 말합니다."
+              },
+              {
+                "term": "underestimate",
+                "meaning": "과소평가하다. 리스크나 작업량을 낮게 보는 상황에서 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can we turn this into a repeatable workflow instead of a one-off fix?",
+            "korean": "이것을 일회성 수정이 아니라 반복 가능한 업무 흐름으로 만들 수 있을까요?",
+            "expressions": [
+              {
+                "term": "repeatable workflow",
+                "meaning": "반복 가능한 업무 흐름. 재사용 가능한 프로세스를 만들 때 씁니다."
+              },
+              {
+                "term": "one-off fix",
+                "meaning": "일회성 해결책. 당장은 해결되지만 재사용성이 낮은 조치를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "align on the decision criteria",
+            "meaning": "의사결정 기준에 합의하다. 평가 회의나 구매 검토에서 씁니다."
+          },
+          {
+            "term": "compare vendors",
+            "meaning": "공급업체를 비교하다. 가격, 품질, 납기, 지원 조건을 검토할 때 씁니다."
+          },
+          {
+            "term": "implementation burden",
+            "meaning": "실행 부담. 실제 도입에 필요한 인력, 시간, 비용을 말합니다."
+          },
+          {
+            "term": "underestimate",
+            "meaning": "과소평가하다. 리스크나 작업량을 낮게 보는 상황에서 씁니다."
+          },
+          {
+            "term": "repeatable workflow",
+            "meaning": "반복 가능한 업무 흐름. 재사용 가능한 프로세스를 만들 때 씁니다."
+          },
+          {
+            "term": "one-off fix",
+            "meaning": "일회성 해결책. 당장은 해결되지만 재사용성이 낮은 조치를 말합니다."
+          }
+        ],
+        "sourceFile": "2026-07-01 English Daily Sentences.md"
       }
     ],
     "Japanese": [
@@ -2379,6 +2459,110 @@
           }
         ],
         "sourceFile": "2026-06-29 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-07-01",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-07-01",
+        "practice": "一回きりの対応ではなく、再現性のある流れにできますか。",
+        "sentences": [
+          {
+            "reading": "ベンダーをひかくするまえに、いしけっていのきじゅんをそろえましょう。",
+            "original": "ベンダーを比較する前に、意思決定の基準をそろえましょう。",
+            "korean": "벤더를 비교하기 전에 의사결정 기준을 맞춥시다.",
+            "expressions": [
+              {
+                "term": "意思決定の基準",
+                "reading": "いしけっていのきじゅん",
+                "meaning": "의사결정 기준. 선택지를 평가할 때 사용하는 판단 근거입니다.",
+                "note": ""
+              },
+              {
+                "term": "基準をそろえる",
+                "reading": "きじゅんをそろえる",
+                "meaning": "기준을 맞추다. 팀 간 평가 방식의 차이를 줄일 때 씁니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "このていあんはみこみがありますが、じっこうふたんをかしょうひょうかしがちです。",
+            "original": "この提案は見込みがありますが、実行負担を過小評価しがちです。",
+            "korean": "이 제안은 가능성이 있지만 실행 부담을 과소평가하기 쉽습니다.",
+            "expressions": [
+              {
+                "term": "実行負担",
+                "reading": "じっこうふたん",
+                "meaning": "실행 부담. 도입·운영에 필요한 시간, 인력, 비용을 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "過小評価する",
+                "reading": "かしょうひょうかする",
+                "meaning": "과소평가하다. 실제 부담이나 위험을 낮게 보는 상황입니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "いっかいきりのたいおうではなく、さいげんせいのあるながれにできますか。",
+            "original": "一回きりの対応ではなく、再現性のある流れにできますか。",
+            "korean": "일회성 대응이 아니라 재현 가능한 흐름으로 만들 수 있을까요?",
+            "expressions": [
+              {
+                "term": "再現性のある流れ",
+                "reading": "さいげんせいのあるながれ",
+                "meaning": "재현 가능한 흐름. 반복 적용 가능한 업무 프로세스를 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "一回きりの対応",
+                "reading": "いっかいきりのたいおう",
+                "meaning": "일회성 대응. 근본 해결보다 임시 조치에 가까운 대응입니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "意思決定の基準",
+            "reading": "いしけっていのきじゅん",
+            "meaning": "의사결정 기준. 선택지를 평가할 때 사용하는 판단 근거입니다.",
+            "note": ""
+          },
+          {
+            "term": "基準をそろえる",
+            "reading": "きじゅんをそろえる",
+            "meaning": "기준을 맞추다. 팀 간 평가 방식의 차이를 줄일 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "実行負担",
+            "reading": "じっこうふたん",
+            "meaning": "실행 부담. 도입·운영에 필요한 시간, 인력, 비용을 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "過小評価する",
+            "reading": "かしょうひょうかする",
+            "meaning": "과소평가하다. 실제 부담이나 위험을 낮게 보는 상황입니다.",
+            "note": ""
+          },
+          {
+            "term": "再現性のある流れ",
+            "reading": "さいげんせいのあるながれ",
+            "meaning": "재현 가능한 흐름. 반복 적용 가능한 업무 프로세스를 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "一回きりの対応",
+            "reading": "いっかいきりのたいおう",
+            "meaning": "일회성 대응. 근본 해결보다 임시 조치에 가까운 대응입니다.",
+            "note": ""
+          }
+        ],
+        "sourceFile": "2026-07-01 Japanese Daily Sentences.md"
       }
     ],
     "Chinese": [
@@ -3701,6 +3885,110 @@
           }
         ],
         "sourceFile": "2026-06-29 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-07-01",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-07-01",
+        "practice": "我们能不能把这件事变成可复用的工作流程？",
+        "sentences": [
+          {
+            "reading": "Wǒmen xiān tǒngyī juécè biāozhǔn, zài bǐjiào bùtóng gōngyìngshāng.",
+            "original": "我们先统一决策标准，再比较不同供应商。",
+            "korean": "먼저 의사결정 기준을 통일한 뒤 여러 공급업체를 비교합시다.",
+            "expressions": [
+              {
+                "term": "决策标准",
+                "reading": "juécè biāozhǔn",
+                "meaning": "의사결정 기준. 평가·선정 과정에서 판단 근거를 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "统一",
+                "reading": "tǒngyī",
+                "meaning": "통일하다, 합의하다. 팀의 기준이나 방향을 맞출 때 씁니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge tí'àn kànqǐlái hěn yǒu qiánjǐng, dàn luòdì chéngběn róngyì bèi dīgū.",
+            "original": "这个提案看起来很有前景，但落地成本容易被低估。",
+            "korean": "이 제안은 전망이 좋아 보이지만 실행 비용이 과소평가되기 쉽습니다.",
+            "expressions": [
+              {
+                "term": "落地成本",
+                "reading": "luòdì chéngběn",
+                "meaning": "실행·도입 비용. 아이디어를 실제 운영으로 옮길 때 드는 비용입니다.",
+                "note": ""
+              },
+              {
+                "term": "被低估",
+                "reading": "bèi dīgū",
+                "meaning": "과소평가되다. 리스크나 비용이 실제보다 낮게 평가될 때 씁니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen néng bùnéng bǎ zhè jiàn shì biàn chéng kě fùyòng de gōngzuò liúchéng?",
+            "original": "我们能不能把这件事变成可复用的工作流程？",
+            "korean": "이 일을 재사용 가능한 업무 흐름으로 바꿀 수 있을까요?",
+            "expressions": [
+              {
+                "term": "可复用",
+                "reading": "kě fùyòng",
+                "meaning": "재사용 가능한. 문서, 코드, 프로세스가 반복 활용될 수 있을 때 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "工作流程",
+                "reading": "gōngzuò liúchéng",
+                "meaning": "업무 흐름. 작업 단계와 책임이 정리된 프로세스를 말합니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "决策标准",
+            "reading": "juécè biāozhǔn",
+            "meaning": "의사결정 기준. 평가·선정 과정에서 판단 근거를 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "统一",
+            "reading": "tǒngyī",
+            "meaning": "통일하다, 합의하다. 팀의 기준이나 방향을 맞출 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "落地成本",
+            "reading": "luòdì chéngběn",
+            "meaning": "실행·도입 비용. 아이디어를 실제 운영으로 옮길 때 드는 비용입니다.",
+            "note": ""
+          },
+          {
+            "term": "被低估",
+            "reading": "bèi dīgū",
+            "meaning": "과소평가되다. 리스크나 비용이 실제보다 낮게 평가될 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "可复用",
+            "reading": "kě fùyòng",
+            "meaning": "재사용 가능한. 문서, 코드, 프로세스가 반복 활용될 수 있을 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "工作流程",
+            "reading": "gōngzuò liúchéng",
+            "meaning": "업무 흐름. 작업 단계와 책임이 정리된 프로세스를 말합니다.",
+            "note": ""
+          }
+        ],
+        "sourceFile": "2026-07-01 Chinese Daily Sentences.md"
       }
     ]
   },
@@ -4338,6 +4626,54 @@
           "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
         ],
         "sourceFile": "2026-06-29 English World Issue.md"
+      },
+      {
+        "date": "2026-07-01",
+        "language": "English",
+        "title": "English World Issue - 2026-07-01",
+        "topic": "UN AI governance",
+        "practice": "AI 거버넌스는 정부, 기업, 국제기구가 함께 협상하는 의제가 되고 있습니다.",
+        "issueCards": [
+          {
+            "title": "UN AI governance",
+            "reading": "",
+            "original": "The UN and ITU are launching an AI for Good Global Commission to bring tech executives and political leaders together on global AI governance.",
+            "korean": "유엔과 국제전기통신연합은 기술 경영진과 정치 지도자들이 글로벌 AI 거버넌스를 논의하도록 AI for Good Global Commission을 출범시키고 있습니다.",
+            "expressions": [
+              {
+                "term": "global AI governance",
+                "meaning": "글로벌 AI 거버넌스. 국가 간 AI 규칙, 책임, 표준을 조율하는 체계를 말합니다."
+              },
+              {
+                "term": "bring leaders together",
+                "meaning": "지도자들을 한자리에 모으다. 이해관계자가 공동 논의를 시작할 때 씁니다."
+              },
+              {
+                "term": "tech executives",
+                "meaning": "기술 기업 경영진. AI 제품과 인프라를 실제로 구축하는 기업 리더를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "global AI governance",
+            "meaning": "글로벌 AI 거버넌스. 국가 간 AI 규칙, 책임, 표준을 조율하는 체계를 말합니다."
+          },
+          {
+            "term": "bring leaders together",
+            "meaning": "지도자들을 한자리에 모으다. 이해관계자가 공동 논의를 시작할 때 씁니다."
+          },
+          {
+            "term": "tech executives",
+            "meaning": "기술 기업 경영진. AI 제품과 인프라를 실제로 구축하는 기업 리더를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Axios, July 1, 2026 - UN launches AI for Good commission](https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders)",
+          "- [ITU AI for Good Global Summit 2026](https://aiforgood.itu.int/summit26/)"
+        ],
+        "sourceFile": "2026-07-01 English World Issue.md"
       }
     ],
     "Japanese": [
@@ -5109,6 +5445,66 @@
           "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
         ],
         "sourceFile": "2026-06-29 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-07-01",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-07-01",
+        "topic": "UN AI governance",
+        "practice": "AIのルール作りは、企業の自主対応だけでなく国際的な制度設計の段階に入っています。",
+        "issueCards": [
+          {
+            "title": "UN AI governance",
+            "reading": "こくれんとこくさいでんきつうしんれんごうは、AIガバナンスをめぐり、テックきぎょうのけいえいじんとせいじしどうしゃをむすぶAI for Good Global Commissionをたちあげます。",
+            "original": "国連と国際電気通信連合は、AIガバナンスをめぐり、テック企業の経営陣と政治指導者を結ぶ AI for Good Global Commission を立ち上げます。",
+            "korean": "유엔과 국제전기통신연합은 AI 거버넌스를 둘러싸고 기술 기업 경영진과 정치 지도자를 연결하는 AI for Good Global Commission을 출범시킵니다.",
+            "expressions": [
+              {
+                "term": "AIガバナンスをめぐり",
+                "reading": "AIガバナンスをめぐり",
+                "meaning": "AI 거버넌스를 둘러싸고. 정책·규제 논쟁의 주제를 제시할 때 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "政治指導者",
+                "reading": "せいじしどうしゃ",
+                "meaning": "정치 지도자. 국가나 정부 차원의 정책 결정자를 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "立ち上げる",
+                "reading": "たちあげる",
+                "meaning": "출범시키다, 시작하다. 조직·프로젝트·제도를 새로 만들 때 씁니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "AIガバナンスをめぐり",
+            "reading": "AIガバナンスをめぐり",
+            "meaning": "AI 거버넌스를 둘러싸고. 정책·규제 논쟁의 주제를 제시할 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "政治指導者",
+            "reading": "せいじしどうしゃ",
+            "meaning": "정치 지도자. 국가나 정부 차원의 정책 결정자를 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "立ち上げる",
+            "reading": "たちあげる",
+            "meaning": "출범시키다, 시작하다. 조직·프로젝트·제도를 새로 만들 때 씁니다.",
+            "note": ""
+          }
+        ],
+        "sources": [
+          "- [Axios, July 1, 2026 - UN launches AI for Good commission](https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders)",
+          "- [ITU AI for Good Global Summit 2026](https://aiforgood.itu.int/summit26/)"
+        ],
+        "sourceFile": "2026-07-01 Japanese World Issue.md"
       }
     ],
     "Chinese": [
@@ -5880,6 +6276,66 @@
           "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
         ],
         "sourceFile": "2026-06-29 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-07-01",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-07-01",
+        "topic": "UN AI governance",
+        "practice": "AI规则不再只是技术问题，而是国际协调和产业责任的问题。",
+        "issueCards": [
+          {
+            "title": "UN AI governance",
+            "reading": "Liánhéguó hé Guójì Diànxìn Liánméng zhèngzài tuīdòng chénglì AI for Good Quánqiú Wěiyuánhuì, ràng kējì gāoguǎn yǔ zhèngzhì lǐngdǎorén gòngtóng tǎolùn quánqiú réngōng zhìnéng zhìlǐ.",
+            "original": "联合国和国际电信联盟正在推动成立 AI for Good 全球委员会，让科技高管与政治领导人共同讨论全球人工智能治理。",
+            "korean": "유엔과 국제전기통신연합은 AI for Good 글로벌 위원회를 출범시켜 기술 기업 고위 경영진과 정치 지도자들이 글로벌 AI 거버넌스를 논의하게 하려 하고 있습니다.",
+            "expressions": [
+              {
+                "term": "全球人工智能治理",
+                "reading": "quánqiú réngōng zhìnéng zhìlǐ",
+                "meaning": "글로벌 AI 거버넌스. AI 규칙과 책임 기준을 국제적으로 조율하는 것을 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "科技高管",
+                "reading": "kējì gāoguǎn",
+                "meaning": "기술 기업 고위 경영진. 빅테크·AI 기업의 의사결정권자를 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "推动成立",
+                "reading": "tuīdòng chénglì",
+                "meaning": "설립을 추진하다. 조직이나 제도 출범을 적극적으로 진행할 때 씁니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "全球人工智能治理",
+            "reading": "quánqiú réngōng zhìnéng zhìlǐ",
+            "meaning": "글로벌 AI 거버넌스. AI 규칙과 책임 기준을 국제적으로 조율하는 것을 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "科技高管",
+            "reading": "kējì gāoguǎn",
+            "meaning": "기술 기업 고위 경영진. 빅테크·AI 기업의 의사결정권자를 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "推动成立",
+            "reading": "tuīdòng chénglì",
+            "meaning": "설립을 추진하다. 조직이나 제도 출범을 적극적으로 진행할 때 씁니다.",
+            "note": ""
+          }
+        ],
+        "sources": [
+          "- [Axios, July 1, 2026 - UN launches AI for Good commission](https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders)",
+          "- [ITU AI for Good Global Summit 2026](https://aiforgood.itu.int/summit26/)"
+        ],
+        "sourceFile": "2026-07-01 Chinese World Issue.md"
       }
     ]
   },
