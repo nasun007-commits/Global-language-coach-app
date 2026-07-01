@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T01:30:13.213416+00:00",
+  "generatedAt": "2026-07-01T10:55:07.290106+00:00",
   "daily": {
     "English": [
       {
@@ -969,6 +969,86 @@
           }
         ],
         "sourceFile": "2026-06-24 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-29",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-29",
+        "practice": "Let's stress-test the plan before we commit more budget.",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "Let's stress-test the plan before we commit more budget.",
+            "korean": "예산을 더 투입하기 전에 그 계획을 강하게 검증해 봅시다.",
+            "expressions": [
+              {
+                "term": "stress-test the plan",
+                "meaning": "계획을 여러 악조건에서 검증하다. 리스크 점검이나 의사결정 회의에서 씁니다."
+              },
+              {
+                "term": "commit more budget",
+                "meaning": "추가 예산을 배정하다. 투자나 프로젝트 확장 전에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "The upside is real, but the payback period is still unclear.",
+            "korean": "상승 여지는 분명하지만 투자 회수 기간은 아직 불명확합니다.",
+            "expressions": [
+              {
+                "term": "upside is real",
+                "meaning": "긍정적 가능성이 실제로 있다. 기회가 과장이 아니라는 점을 말할 때 씁니다."
+              },
+              {
+                "term": "payback period",
+                "meaning": "투자 회수 기간. 비용 대비 수익이 언제 나오는지 따질 때 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "We need a fallback option in case the vendor slips on delivery.",
+            "korean": "공급업체의 납기가 밀릴 경우를 대비해 대안이 필요합니다.",
+            "expressions": [
+              {
+                "term": "fallback option",
+                "meaning": "예비 대안. 첫 번째 계획이 실패할 때 사용할 선택지입니다."
+              },
+              {
+                "term": "slip on delivery",
+                "meaning": "납기나 인도 일정이 지연되다. 공급망·프로젝트 관리에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "stress-test the plan",
+            "meaning": "계획을 여러 악조건에서 검증하다. 리스크 점검이나 의사결정 회의에서 씁니다."
+          },
+          {
+            "term": "commit more budget",
+            "meaning": "추가 예산을 배정하다. 투자나 프로젝트 확장 전에 씁니다."
+          },
+          {
+            "term": "upside is real",
+            "meaning": "긍정적 가능성이 실제로 있다. 기회가 과장이 아니라는 점을 말할 때 씁니다."
+          },
+          {
+            "term": "payback period",
+            "meaning": "투자 회수 기간. 비용 대비 수익이 언제 나오는지 따질 때 씁니다."
+          },
+          {
+            "term": "fallback option",
+            "meaning": "예비 대안. 첫 번째 계획이 실패할 때 사용할 선택지입니다."
+          },
+          {
+            "term": "slip on delivery",
+            "meaning": "납기나 인도 일정이 지연되다. 공급망·프로젝트 관리에서 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-29 English Daily Sentences.md"
       }
     ],
     "Japanese": [
@@ -2195,6 +2275,110 @@
           }
         ],
         "sourceFile": "2026-06-24 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-29",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-29",
+        "practice": "納期がずれ込んだ場合に備えて、代替案を用意しておきましょう。",
+        "sentences": [
+          {
+            "reading": "ついかよさんをとうにゅうするまえに、このけいかくのぜいじゃくせいをあらいだしましょう。",
+            "original": "追加予算を投入する前に、この計画の脆弱性を洗い出しましょう。",
+            "korean": "추가 예산을 투입하기 전에 이 계획의 취약점을 도출해 봅시다.",
+            "expressions": [
+              {
+                "term": "脆弱性を洗い出す",
+                "reading": "ぜいじゃくせいをあらいだす",
+                "meaning": "취약점을 찾아내다. 리스크 검토나 품질 점검에서 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "追加予算を投入する",
+                "reading": "ついかよさんをとうにゅうする",
+                "meaning": "추가 예산을 투입하다. 사업 확대나 프로젝트 승인 전에 씁니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "せいちょうよちはありますが、とうしのかいしゅうじきはまだみえていません。",
+            "original": "成長余地はありますが、投資の回収時期はまだ見えていません。",
+            "korean": "성장 여지는 있지만 투자 회수 시점은 아직 보이지 않습니다.",
+            "expressions": [
+              {
+                "term": "成長余地",
+                "reading": "せいちょうよち",
+                "meaning": "성장 여지. 시장·제품·커리어의 추가 성장 가능성을 말합니다.",
+                "note": ""
+              },
+              {
+                "term": "投資の回収時期",
+                "reading": "とうしのかいしゅうじき",
+                "meaning": "투자 회수 시점. 비용을 들인 뒤 성과가 돌아오는 시점을 말합니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "のうきがずれこんだばあいにそなえて、だいたいあんをよういしておきましょう。",
+            "original": "納期がずれ込んだ場合に備えて、代替案を用意しておきましょう。",
+            "korean": "납기가 밀릴 경우에 대비해 대체안을 준비해 둡시다.",
+            "expressions": [
+              {
+                "term": "納期がずれ込む",
+                "reading": "のうきがずれこむ",
+                "meaning": "납기가 밀리다. 공급업체·개발 일정 지연을 말할 때 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "代替案を用意する",
+                "reading": "だいたいあんをよういする",
+                "meaning": "대체안을 준비하다. 플랜 B를 마련하는 상황에서 씁니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "脆弱性を洗い出す",
+            "reading": "ぜいじゃくせいをあらいだす",
+            "meaning": "취약점을 찾아내다. 리스크 검토나 품질 점검에서 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "追加予算を投入する",
+            "reading": "ついかよさんをとうにゅうする",
+            "meaning": "추가 예산을 투입하다. 사업 확대나 프로젝트 승인 전에 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "成長余地",
+            "reading": "せいちょうよち",
+            "meaning": "성장 여지. 시장·제품·커리어의 추가 성장 가능성을 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "投資の回収時期",
+            "reading": "とうしのかいしゅうじき",
+            "meaning": "투자 회수 시점. 비용을 들인 뒤 성과가 돌아오는 시점을 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "納期がずれ込む",
+            "reading": "のうきがずれこむ",
+            "meaning": "납기가 밀리다. 공급업체·개발 일정 지연을 말할 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "代替案を用意する",
+            "reading": "だいたいあんをよういする",
+            "meaning": "대체안을 준비하다. 플랜 B를 마련하는 상황에서 씁니다.",
+            "note": ""
+          }
+        ],
+        "sourceFile": "2026-06-29 Japanese Daily Sentences.md"
       }
     ],
     "Chinese": [
@@ -3413,6 +3597,110 @@
           }
         ],
         "sourceFile": "2026-06-24 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-29",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-29",
+        "practice": "如果供应商交付拖延，我们得有备选方案。",
+        "sentences": [
+          {
+            "reading": "Wǒmen xiān bǎ fēngxiǎn diǎn liè qīngchu, zài juédìng yào bu yào jiā dà tóurù.",
+            "original": "我们先把风险点列清楚，再决定要不要加大投入。",
+            "korean": "먼저 리스크 포인트를 명확히 정리한 뒤 투입을 늘릴지 결정합시다.",
+            "expressions": [
+              {
+                "term": "加大投入",
+                "reading": "jiā dà tóurù",
+                "meaning": "투입을 확대하다. 예산·인력·자원을 더 넣을 때 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "风险点",
+                "reading": "fēngxiǎn diǎn",
+                "meaning": "리스크 포인트. 프로젝트나 투자에서 문제가 될 수 있는 지점을 말합니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "Zhè gè fāng'àn yǒu qiánlì, dàn duǎnqī huíbào hái bù mínglǎng.",
+            "original": "这个方案有潜力，但短期回报还不明朗。",
+            "korean": "이 방안은 잠재력이 있지만 단기 수익은 아직 불투명합니다.",
+            "expressions": [
+              {
+                "term": "短期回报",
+                "reading": "duǎnqī huíbào",
+                "meaning": "단기 수익. 빠른 성과나 투자 회수 가능성을 말할 때 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "不明朗",
+                "reading": "bù mínglǎng",
+                "meaning": "불투명하다. 전망이나 결과가 아직 확실하지 않을 때 씁니다.",
+                "note": ""
+              }
+            ]
+          },
+          {
+            "reading": "Rúguǒ gōngyìngshāng jiāofù tuōyán, wǒmen děi yǒu bèixuǎn fāng'àn.",
+            "original": "如果供应商交付拖延，我们得有备选方案。",
+            "korean": "공급업체의 납품이 지연되면 우리는 대체 방안이 있어야 합니다.",
+            "expressions": [
+              {
+                "term": "交付拖延",
+                "reading": "jiāofù tuōyán",
+                "meaning": "납품·인도 지연. 벤더 관리나 일정 리스크에서 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "备选方案",
+                "reading": "bèixuǎn fāng'àn",
+                "meaning": "대체 방안. 기본 계획이 흔들릴 때 준비하는 플랜입니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "加大投入",
+            "reading": "jiā dà tóurù",
+            "meaning": "투입을 확대하다. 예산·인력·자원을 더 넣을 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "风险点",
+            "reading": "fēngxiǎn diǎn",
+            "meaning": "리스크 포인트. 프로젝트나 투자에서 문제가 될 수 있는 지점을 말합니다.",
+            "note": ""
+          },
+          {
+            "term": "短期回报",
+            "reading": "duǎnqī huíbào",
+            "meaning": "단기 수익. 빠른 성과나 투자 회수 가능성을 말할 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "不明朗",
+            "reading": "bù mínglǎng",
+            "meaning": "불투명하다. 전망이나 결과가 아직 확실하지 않을 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "交付拖延",
+            "reading": "jiāofù tuōyán",
+            "meaning": "납품·인도 지연. 벤더 관리나 일정 리스크에서 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "备选方案",
+            "reading": "bèixuǎn fāng'àn",
+            "meaning": "대체 방안. 기본 계획이 흔들릴 때 준비하는 플랜입니다.",
+            "note": ""
+          }
+        ],
+        "sourceFile": "2026-06-29 Chinese Daily Sentences.md"
       }
     ]
   },
@@ -4002,6 +4290,54 @@
           "- [AP News, June 23, 2026 - AI companies urged to disclose environmental impact](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
         ],
         "sourceFile": "2026-06-24 English World Issue.md"
+      },
+      {
+        "date": "2026-06-29",
+        "language": "English",
+        "title": "English World Issue - 2026-06-29",
+        "topic": "AI investment risk",
+        "practice": "AI 지출은 기술 이슈를 넘어 금융 안정성 이슈로 이동하고 있습니다.",
+        "issueCards": [
+          {
+            "title": "AI investment risk",
+            "reading": "",
+            "original": "The BIS warned that an AI investment boom could turn into a painful bust if returns fail to justify the scale of spending.",
+            "korean": "국제결제은행은 AI 투자 붐이 지출 규모를 정당화할 만큼의 수익을 내지 못하면 고통스러운 침체로 바뀔 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "investment boom",
+                "meaning": "투자 붐. 특정 산업에 자본이 빠르게 몰리는 현상을 말합니다."
+              },
+              {
+                "term": "justify the scale of spending",
+                "meaning": "지출 규모를 정당화하다. 큰 비용이 충분한 성과로 설명될 수 있는지 따질 때 씁니다."
+              },
+              {
+                "term": "painful bust",
+                "meaning": "고통스러운 침체·붕괴. 과열된 시장이 급격히 꺼지는 상황입니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "investment boom",
+            "meaning": "투자 붐. 특정 산업에 자본이 빠르게 몰리는 현상을 말합니다."
+          },
+          {
+            "term": "justify the scale of spending",
+            "meaning": "지출 규모를 정당화하다. 큰 비용이 충분한 성과로 설명될 수 있는지 따질 때 씁니다."
+          },
+          {
+            "term": "painful bust",
+            "meaning": "고통스러운 침체·붕괴. 과열된 시장이 급격히 꺼지는 상황입니다."
+          }
+        ],
+        "sources": [
+          "- [Financial Times, June 28, 2026 - AI exuberance risks ending in investment bust](https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4)",
+          "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
+        ],
+        "sourceFile": "2026-06-29 English World Issue.md"
       }
     ],
     "Japanese": [
@@ -4713,6 +5049,66 @@
           "- [AP News, 2026-06-23 - AI environmental impact](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
         ],
         "sourceFile": "2026-06-24 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-29",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-29",
+        "topic": "AI investment risk",
+        "practice": "AI投資は成長戦略である一方、財務リスクとしても管理する必要があります。",
+        "issueCards": [
+          {
+            "title": "AI investment risk",
+            "reading": "こくさいけっさいぎんこうは、AIとうしブームがきたいどおりのしゅうえきをうまなければ、ながびくとうしふしんにつながりうるとけいこくしました。",
+            "original": "国際決済銀行は、AI投資ブームが期待通りの収益を生まなければ、長引く投資不振につながり得ると警告しました。",
+            "korean": "국제결제은행은 AI 투자 붐이 기대한 수익을 내지 못하면 장기적인 투자 부진으로 이어질 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "投資ブーム",
+                "reading": "とうしブーム",
+                "meaning": "투자 붐. 특정 산업에 자금이 집중적으로 몰리는 현상입니다.",
+                "note": ""
+              },
+              {
+                "term": "期待通りの収益",
+                "reading": "きたいどおりのしゅうえき",
+                "meaning": "기대한 수준의 수익. 투자 판단이나 실적 평가에서 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "長引く投資不振",
+                "reading": "ながびくとうしふしん",
+                "meaning": "장기적인 투자 부진. 과열 이후 자본 투입이 위축되는 상황입니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "投資ブーム",
+            "reading": "とうしブーム",
+            "meaning": "투자 붐. 특정 산업에 자금이 집중적으로 몰리는 현상입니다.",
+            "note": ""
+          },
+          {
+            "term": "期待通りの収益",
+            "reading": "きたいどおりのしゅうえき",
+            "meaning": "기대한 수준의 수익. 투자 판단이나 실적 평가에서 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "長引く投資不振",
+            "reading": "ながびくとうしふしん",
+            "meaning": "장기적인 투자 부진. 과열 이후 자본 투입이 위축되는 상황입니다.",
+            "note": ""
+          }
+        ],
+        "sources": [
+          "- [Financial Times, June 28, 2026 - AI exuberance risks ending in investment bust](https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4)",
+          "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
+        ],
+        "sourceFile": "2026-06-29 Japanese World Issue.md"
       }
     ],
     "Chinese": [
@@ -5424,6 +5820,66 @@
           "- [AP News, 2026-06-23 - AI environmental impact](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
         ],
         "sourceFile": "2026-06-24 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-29",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-29",
+        "topic": "AI investment risk",
+        "practice": "企业不能只看AI增长叙事，也要核算资本开支的真实回报。",
+        "issueCards": [
+          {
+            "title": "AI investment risk",
+            "reading": "Guójì Qīngsuàn Yínháng jǐnggào shuō, réngōng zhìnéng tóuzī rècháo ruò wúfǎ chǎnshēng zúgòu huíbào, kěnéng yǎnbiàn chéng quánqiú jīnróng fēngxiǎn.",
+            "original": "国际清算银行警告说，人工智能投资热潮若无法产生足够回报，可能演变成全球金融风险。",
+            "korean": "국제결제은행은 AI 투자 열풍이 충분한 수익을 내지 못하면 글로벌 금융 리스크로 번질 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "投资热潮",
+                "reading": "tóuzī rècháo",
+                "meaning": "투자 열풍. 특정 분야에 자금이 과도하게 몰리는 상황입니다.",
+                "note": ""
+              },
+              {
+                "term": "演变成",
+                "reading": "yǎnbiàn chéng",
+                "meaning": "~로 번지다, 변화하다. 사태가 더 큰 문제로 발전할 때 씁니다.",
+                "note": ""
+              },
+              {
+                "term": "全球金融风险",
+                "reading": "quánqiú jīnróng fēngxiǎn",
+                "meaning": "글로벌 금융 리스크. 한 산업의 문제가 금융시장 전체로 확산될 가능성을 말합니다.",
+                "note": ""
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "投资热潮",
+            "reading": "tóuzī rècháo",
+            "meaning": "투자 열풍. 특정 분야에 자금이 과도하게 몰리는 상황입니다.",
+            "note": ""
+          },
+          {
+            "term": "演变成",
+            "reading": "yǎnbiàn chéng",
+            "meaning": "~로 번지다, 변화하다. 사태가 더 큰 문제로 발전할 때 씁니다.",
+            "note": ""
+          },
+          {
+            "term": "全球金融风险",
+            "reading": "quánqiú jīnróng fēngxiǎn",
+            "meaning": "글로벌 금융 리스크. 한 산업의 문제가 금융시장 전체로 확산될 가능성을 말합니다.",
+            "note": ""
+          }
+        ],
+        "sources": [
+          "- [Financial Times, June 28, 2026 - AI exuberance risks ending in investment bust](https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4)",
+          "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
+        ],
+        "sourceFile": "2026-06-29 Chinese World Issue.md"
       }
     ]
   },
