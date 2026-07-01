@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T11:00:16.216883+00:00",
+  "generatedAt": "2026-07-01T11:06:27.969914+00:00",
   "daily": {
     "English": [
       {
@@ -313,6 +313,62 @@
           }
         ],
         "sourceFile": "2026-06-11 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-12",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-12",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-12 English Daily Sentences.md"
       },
       {
         "date": "2026-06-13",
@@ -811,6 +867,174 @@
         "sourceFile": "2026-06-19 English Daily Sentences.md"
       },
       {
+        "date": "2026-06-20",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-20",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-20 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-21",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-21",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-21 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-22",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-22",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-22 English Daily Sentences.md"
+      },
+      {
         "date": "2026-06-23",
         "language": "English",
         "title": "English Daily Sentences - 2026-06-23",
@@ -971,6 +1195,230 @@
         "sourceFile": "2026-06-24 English Daily Sentences.md"
       },
       {
+        "date": "2026-06-25",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-25",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-25 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-26",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-26",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-26 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-27",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-27",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-27 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-28",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-28",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-28 English Daily Sentences.md"
+      },
+      {
         "date": "2026-06-29",
         "language": "English",
         "title": "English Daily Sentences - 2026-06-29",
@@ -1049,6 +1497,62 @@
           }
         ],
         "sourceFile": "2026-06-29 English Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-30",
+        "language": "English",
+        "title": "English Daily Sentences - 2026-06-30",
+        "practice": "Can you summarize the trade-offs in plain language?",
+        "sentences": [
+          {
+            "reading": "",
+            "original": "We need to separate urgent work from genuinely important work.",
+            "korean": "긴급한 일과 진짜 중요한 일을 구분해야 합니다.",
+            "expressions": [
+              {
+                "term": "separate urgent work from important work",
+                "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Can you summarize the trade-offs in plain language?",
+            "korean": "그 절충점을 쉬운 말로 요약해 주시겠어요?",
+            "expressions": [
+              {
+                "term": "trade-offs",
+                "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+              }
+            ]
+          },
+          {
+            "reading": "",
+            "original": "Let’s document the rationale while the decision is still fresh.",
+            "korean": "결정이 아직 생생할 때 그 근거를 문서화합시다.",
+            "expressions": [
+              {
+                "term": "document the rationale",
+                "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "separate urgent work from important work",
+            "meaning": "긴급한 일과 중요한 일을 구분하다. 우선순위 정리에 씁니다."
+          },
+          {
+            "term": "trade-offs",
+            "meaning": "절충점. 하나를 얻기 위해 다른 것을 포기해야 하는 관계입니다."
+          },
+          {
+            "term": "document the rationale",
+            "meaning": "판단 근거를 문서화하다. 나중에 의사결정을 추적할 때 씁니다."
+          }
+        ],
+        "sourceFile": "2026-06-30 English Daily Sentences.md"
       },
       {
         "date": "2026-07-01",
@@ -1491,6 +1995,74 @@
           }
         ],
         "sourceFile": "2026-06-11 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-12",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-12",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-12 Japanese Daily Sentences.md"
       },
       {
         "date": "2026-06-13",
@@ -2149,6 +2721,210 @@
         "sourceFile": "2026-06-19 Japanese Daily Sentences.md"
       },
       {
+        "date": "2026-06-20",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-20",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-20 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-21",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-21",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-21 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-22",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-22",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-22 Japanese Daily Sentences.md"
+      },
+      {
         "date": "2026-06-23",
         "language": "Japanese",
         "title": "Japanese Daily Sentences - 2026-06-23",
@@ -2357,6 +3133,278 @@
         "sourceFile": "2026-06-24 Japanese Daily Sentences.md"
       },
       {
+        "date": "2026-06-25",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-25",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-25 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-26",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-26",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-26 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-27",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-27",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-27 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-28",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-28",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-28 Japanese Daily Sentences.md"
+      },
+      {
         "date": "2026-06-29",
         "language": "Japanese",
         "title": "Japanese Daily Sentences - 2026-06-29",
@@ -2459,6 +3507,74 @@
           }
         ],
         "sourceFile": "2026-06-29 Japanese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-30",
+        "language": "Japanese",
+        "title": "Japanese Daily Sentences - 2026-06-30",
+        "practice": "優先順位をもう一度整理しましょう。",
+        "sentences": [
+          {
+            "reading": "ゆうせんじゅんいをもういちどせいりしましょう。",
+            "original": "優先順位をもう一度整理しましょう。",
+            "korean": "우선순위를 다시 한번 정리합시다.",
+            "expressions": [
+              {
+                "term": "優先順位",
+                "reading": "ゆうせんじゅんい",
+                "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "このはんだんのぜんていをめいかくにしておきたいです。",
+            "original": "この判断の前提を明確にしておきたいです。",
+            "korean": "이 판단의 전제를 명확히 해 두고 싶습니다.",
+            "expressions": [
+              {
+                "term": "判断の前提",
+                "reading": "はんだんのぜんてい",
+                "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          },
+          {
+            "reading": "たんきてきなこうかだけでなく、うんようふたんもみましょう。",
+            "original": "短期的な効果だけでなく、運用負担も見ましょう。",
+            "korean": "단기 효과뿐 아니라 운영 부담도 봅시다.",
+            "expressions": [
+              {
+                "term": "運用負担",
+                "reading": "うんようふたん",
+                "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+                "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "優先順位",
+            "reading": "ゆうせんじゅんい",
+            "meaning": "우선순위. 처리 순서와 중요도를 말합니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "判断の前提",
+            "reading": "はんだんのぜんてい",
+            "meaning": "판단의 전제. 결정을 떠받치는 조건입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          },
+          {
+            "term": "運用負担",
+            "reading": "うんようふたん",
+            "meaning": "운영 부담. 실제 운영에서 드는 시간과 비용입니다.",
+            "note": "회의, 보고, 협업 상황에서 자연스럽게 쓸 수 있습니다."
+          }
+        ],
+        "sourceFile": "2026-06-30 Japanese Daily Sentences.md"
       },
       {
         "date": "2026-07-01",
@@ -2917,6 +4033,74 @@
           }
         ],
         "sourceFile": "2026-06-11 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-12",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-12",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-12 Chinese Daily Sentences.md"
       },
       {
         "date": "2026-06-13",
@@ -3575,6 +4759,210 @@
         "sourceFile": "2026-06-19 Chinese Daily Sentences.md"
       },
       {
+        "date": "2026-06-20",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-20",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-20 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-21",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-21",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-21 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-22",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-22",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-22 Chinese Daily Sentences.md"
+      },
+      {
         "date": "2026-06-23",
         "language": "Chinese",
         "title": "Chinese Daily Sentences - 2026-06-23",
@@ -3783,6 +5171,278 @@
         "sourceFile": "2026-06-24 Chinese Daily Sentences.md"
       },
       {
+        "date": "2026-06-25",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-25",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-25 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-26",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-26",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-26 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-27",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-27",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-27 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-28",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-28",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-28 Chinese Daily Sentences.md"
+      },
+      {
         "date": "2026-06-29",
         "language": "Chinese",
         "title": "Chinese Daily Sentences - 2026-06-29",
@@ -3885,6 +5545,74 @@
           }
         ],
         "sourceFile": "2026-06-29 Chinese Daily Sentences.md"
+      },
+      {
+        "date": "2026-06-30",
+        "language": "Chinese",
+        "title": "Chinese Daily Sentences - 2026-06-30",
+        "practice": "我们得把优先级标清楚。",
+        "sentences": [
+          {
+            "reading": "Wǒmen děi bǎ yōuxiān jí biāo qīngchu.",
+            "original": "我们得把优先级标清楚。",
+            "korean": "우선순위를 명확히 표시해야 합니다.",
+            "expressions": [
+              {
+                "term": "优先级",
+                "reading": "yōuxiān jí",
+                "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Zhè ge juédìng de yǐnjìng tiáojiàn hái xūyào zài míngquè yīdiǎn.",
+            "original": "这个决定的隐性条件还需要再明确一点。",
+            "korean": "이 결정의 숨은 조건을 조금 더 명확히 해야 합니다.",
+            "expressions": [
+              {
+                "term": "隐性条件",
+                "reading": "yǐnxìng tiáojiàn",
+                "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          },
+          {
+            "reading": "Wǒmen bùnéng zhǐ kàn duǎnqī xiàoguǒ.",
+            "original": "我们不能只看短期效果。",
+            "korean": "단기 효과만 보면 안 됩니다.",
+            "expressions": [
+              {
+                "term": "短期效果",
+                "reading": "duǎnqī xiàoguǒ",
+                "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+                "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "优先级",
+            "reading": "yōuxiān jí",
+            "meaning": "우선순위. 업무의 중요도와 처리 순서를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "隐性条件",
+            "reading": "yǐnxìng tiáojiàn",
+            "meaning": "암묵적 조건. 겉으로 드러나지 않은 전제입니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          },
+          {
+            "term": "短期效果",
+            "reading": "duǎnqī xiàoguǒ",
+            "meaning": "단기 효과. 빠르게 드러나는 성과를 말합니다.",
+            "note": "업무 조율이나 의사결정 대화에서 검색해 재사용하기 좋습니다."
+          }
+        ],
+        "sourceFile": "2026-06-30 Chinese Daily Sentences.md"
       },
       {
         "date": "2026-07-01",
@@ -4168,6 +5896,45 @@
         ],
         "sources": [],
         "sourceFile": "2026-06-11 English World Issue.md"
+      },
+      {
+        "date": "2026-06-12",
+        "language": "English",
+        "title": "English World Issue - 2026-06-12",
+        "topic": "AI automation taxation",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI automation taxation",
+            "reading": "",
+            "original": "A new automation-economy study argues that countries importing AI rents may need source-based taxes to capture value created by foreign-owned AI systems.",
+            "korean": "새 자동화 경제 연구는 AI 수익을 수입하는 국가가 해외 소유 AI 시스템이 만든 가치를 포착하려면 원천 기반 과세가 필요할 수 있다고 주장합니다.",
+            "expressions": [
+              {
+                "term": "AI rent capture",
+                "meaning": "AI 수익 포착. 자동화로 생긴 초과수익이 어디에 귀속되는지 분석할 때 씁니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "AI rent capture",
+            "meaning": "AI 수익 포착. 자동화로 생긴 초과수익이 어디에 귀속되는지 분석할 때 씁니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.20649)"
+        ],
+        "sourceFile": "2026-06-12 English World Issue.md"
       },
       {
         "date": "2026-06-13",
@@ -4484,6 +6251,123 @@
         "sourceFile": "2026-06-19 English World Issue.md"
       },
       {
+        "date": "2026-06-20",
+        "language": "English",
+        "title": "English World Issue - 2026-06-20",
+        "topic": "AI talent pipeline",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI talent pipeline",
+            "reading": "",
+            "original": "The Asia-Pacific AI Olympiad highlighted how countries are turning AI education into a strategic talent pipeline.",
+            "korean": "아시아태평양 AI 올림피아드는 각국이 AI 교육을 전략적 인재 파이프라인으로 바꾸고 있음을 보여줬습니다.",
+            "expressions": [
+              {
+                "term": "talent pipeline",
+                "meaning": "인재 파이프라인. 장기적으로 필요한 전문 인력을 길러내는 구조를 말합니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "talent pipeline",
+            "meaning": "인재 파이프라인. 장기적으로 필요한 전문 인력을 길러내는 구조를 말합니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://en.wikipedia.org/wiki/International_Olympiad_in_Artificial_Intelligence)"
+        ],
+        "sourceFile": "2026-06-20 English World Issue.md"
+      },
+      {
+        "date": "2026-06-21",
+        "language": "English",
+        "title": "English World Issue - 2026-06-21",
+        "topic": "AI data center power demand",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI data center power demand",
+            "reading": "",
+            "original": "Recent research warns that rapid AI data-center growth is outpacing clean-energy deployment in several regions.",
+            "korean": "최근 연구는 AI 데이터센터의 빠른 성장이 여러 지역에서 청정에너지 보급 속도를 앞지르고 있다고 경고합니다.",
+            "expressions": [
+              {
+                "term": "outpace clean-energy deployment",
+                "meaning": "청정에너지 보급 속도를 앞지르다. 수요 증가가 공급 전환보다 빠를 때 씁니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "outpace clean-energy deployment",
+            "meaning": "청정에너지 보급 속도를 앞지르다. 수요 증가가 공급 전환보다 빠를 때 씁니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.21064)"
+        ],
+        "sourceFile": "2026-06-21 English World Issue.md"
+      },
+      {
+        "date": "2026-06-22",
+        "language": "English",
+        "title": "English World Issue - 2026-06-22",
+        "topic": "AI grid sustainability",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI grid sustainability",
+            "reading": "",
+            "original": "Researchers say AI data centers could support cleaner grids only if operators improve carbon accounting and flexible power use.",
+            "korean": "연구자들은 사업자가 탄소 회계와 유연한 전력 사용을 개선해야 AI 데이터센터가 더 깨끗한 전력망에 기여할 수 있다고 말합니다.",
+            "expressions": [
+              {
+                "term": "carbon accounting",
+                "meaning": "탄소 회계. 배출량과 감축 효과를 측정·보고하는 방식입니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "carbon accounting",
+            "meaning": "탄소 회계. 배출량과 감축 효과를 측정·보고하는 방식입니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.21064)"
+        ],
+        "sourceFile": "2026-06-22 English World Issue.md"
+      },
+      {
         "date": "2026-06-23",
         "language": "English",
         "title": "English World Issue - 2026-06-23",
@@ -4580,6 +6464,162 @@
         "sourceFile": "2026-06-24 English World Issue.md"
       },
       {
+        "date": "2026-06-25",
+        "language": "English",
+        "title": "English World Issue - 2026-06-25",
+        "topic": "AI environmental transparency",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI environmental transparency",
+            "reading": "",
+            "original": "The UN urged major AI companies to disclose carbon, water, and land footprints and power data centers with renewable energy by 2030.",
+            "korean": "유엔은 주요 AI 기업에 탄소·물·토지 사용 영향을 공개하고 2030년까지 데이터센터를 재생에너지로 운영하라고 촉구했습니다.",
+            "expressions": [
+              {
+                "term": "environmental footprint disclosure",
+                "meaning": "환경 영향 공개. 기업의 자원 사용과 배출 영향을 투명하게 밝히는 것입니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "environmental footprint disclosure",
+            "meaning": "환경 영향 공개. 기업의 자원 사용과 배출 영향을 투명하게 밝히는 것입니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
+        ],
+        "sourceFile": "2026-06-25 English World Issue.md"
+      },
+      {
+        "date": "2026-06-26",
+        "language": "English",
+        "title": "English World Issue - 2026-06-26",
+        "topic": "AI in the physical economy",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI in the physical economy",
+            "reading": "",
+            "original": "Goldman Sachs argued that the next AI investment wave will move into factories, utilities, mines, and other physical-economy sectors.",
+            "korean": "골드만삭스는 다음 AI 투자 물결이 공장, 유틸리티, 광산 등 실물경제 부문으로 이동할 것이라고 봤습니다.",
+            "expressions": [
+              {
+                "term": "physical economy",
+                "meaning": "실물경제. 소프트웨어 밖의 제조, 에너지, 물류, 자원 산업을 말합니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "physical economy",
+            "meaning": "실물경제. 소프트웨어 밖의 제조, 에너지, 물류, 자원 산업을 말합니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy)"
+        ],
+        "sourceFile": "2026-06-26 English World Issue.md"
+      },
+      {
+        "date": "2026-06-27",
+        "language": "English",
+        "title": "English World Issue - 2026-06-27",
+        "topic": "AI infrastructure spending",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI infrastructure spending",
+            "reading": "",
+            "original": "Analysts increasingly frame AI infrastructure as a capital-spending cycle that will reshape energy, chips, and industrial strategy.",
+            "korean": "분석가들은 AI 인프라를 에너지, 반도체, 산업 전략을 재편할 자본지출 사이클로 보고 있습니다.",
+            "expressions": [
+              {
+                "term": "capital-spending cycle",
+                "meaning": "자본지출 사이클. 기업이 장기간 설비와 인프라에 대규모 투자하는 흐름입니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "capital-spending cycle",
+            "meaning": "자본지출 사이클. 기업이 장기간 설비와 인프라에 대규모 투자하는 흐름입니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy)"
+        ],
+        "sourceFile": "2026-06-27 English World Issue.md"
+      },
+      {
+        "date": "2026-06-28",
+        "language": "English",
+        "title": "English World Issue - 2026-06-28",
+        "topic": "AI investment risk",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI investment risk",
+            "reading": "",
+            "original": "The BIS warned that the AI investment boom could become a financial risk if returns fail to match spending expectations.",
+            "korean": "국제결제은행은 AI 투자 붐이 지출 기대에 맞는 수익을 내지 못하면 금융 리스크가 될 수 있다고 경고했습니다.",
+            "expressions": [
+              {
+                "term": "spending expectations",
+                "meaning": "지출 기대치. 대규모 투자가 어느 정도 수익을 낼 것이라는 시장의 전제를 말합니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "spending expectations",
+            "meaning": "지출 기대치. 대규모 투자가 어느 정도 수익을 낼 것이라는 시장의 전제를 말합니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
+        ],
+        "sourceFile": "2026-06-28 English World Issue.md"
+      },
+      {
         "date": "2026-06-29",
         "language": "English",
         "title": "English World Issue - 2026-06-29",
@@ -4626,6 +6666,45 @@
           "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
         ],
         "sourceFile": "2026-06-29 English World Issue.md"
+      },
+      {
+        "date": "2026-06-30",
+        "language": "English",
+        "title": "English World Issue - 2026-06-30",
+        "topic": "AI market volatility",
+        "practice": "실무적으로 중요한 질문은 이것이 투자, 규제, 업무 의사결정을 어떻게 바꾸는가입니다.",
+        "issueCards": [
+          {
+            "title": "AI market volatility",
+            "reading": "",
+            "original": "AI-linked shares turned volatile as investors questioned whether infrastructure spending can convert into durable earnings.",
+            "korean": "투자자들이 인프라 지출이 지속 가능한 수익으로 전환될 수 있는지 의문을 제기하면서 AI 관련 주식이 변동성을 보였습니다.",
+            "expressions": [
+              {
+                "term": "durable earnings",
+                "meaning": "지속 가능한 수익. 일시적 매출이 아니라 장기간 반복되는 이익을 말합니다."
+              },
+              {
+                "term": "strategic implication",
+                "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "durable earnings",
+            "meaning": "지속 가능한 수익. 일시적 매출이 아니라 장기간 반복되는 이익을 말합니다."
+          },
+          {
+            "term": "strategic implication",
+            "meaning": "전략적 함의. 뉴스가 기업·정책 판단에 미치는 의미를 말합니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares)"
+        ],
+        "sourceFile": "2026-06-30 English World Issue.md"
       },
       {
         "date": "2026-07-01",
@@ -4875,6 +6954,53 @@
         ],
         "sources": [],
         "sourceFile": "2026-06-11 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-12",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-12",
+        "topic": "AI automation taxation",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI automation taxation",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.20649)"
+        ],
+        "sourceFile": "2026-06-12 Japanese World Issue.md"
       },
       {
         "date": "2026-06-13",
@@ -5267,6 +7393,147 @@
         "sourceFile": "2026-06-19 Japanese World Issue.md"
       },
       {
+        "date": "2026-06-20",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-20",
+        "topic": "AI talent pipeline",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI talent pipeline",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://en.wikipedia.org/wiki/International_Olympiad_in_Artificial_Intelligence)"
+        ],
+        "sourceFile": "2026-06-20 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-21",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-21",
+        "topic": "AI data center power demand",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI data center power demand",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.21064)"
+        ],
+        "sourceFile": "2026-06-21 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-22",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-22",
+        "topic": "AI grid sustainability",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI grid sustainability",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.21064)"
+        ],
+        "sourceFile": "2026-06-22 Japanese World Issue.md"
+      },
+      {
         "date": "2026-06-23",
         "language": "Japanese",
         "title": "Japanese World Issue - 2026-06-23",
@@ -5387,6 +7654,194 @@
         "sourceFile": "2026-06-24 Japanese World Issue.md"
       },
       {
+        "date": "2026-06-25",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-25",
+        "topic": "AI environmental transparency",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI environmental transparency",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
+        ],
+        "sourceFile": "2026-06-25 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-26",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-26",
+        "topic": "AI in the physical economy",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI in the physical economy",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy)"
+        ],
+        "sourceFile": "2026-06-26 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-27",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-27",
+        "topic": "AI infrastructure spending",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI infrastructure spending",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy)"
+        ],
+        "sourceFile": "2026-06-27 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-28",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-28",
+        "topic": "AI investment risk",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI investment risk",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
+        ],
+        "sourceFile": "2026-06-28 Japanese World Issue.md"
+      },
+      {
         "date": "2026-06-29",
         "language": "Japanese",
         "title": "Japanese World Issue - 2026-06-29",
@@ -5445,6 +7900,53 @@
           "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
         ],
         "sourceFile": "2026-06-29 Japanese World Issue.md"
+      },
+      {
+        "date": "2026-06-30",
+        "language": "Japanese",
+        "title": "Japanese World Issue - 2026-06-30",
+        "topic": "AI market volatility",
+        "practice": "AIは技術導入だけでなく、資本配分と制度設計の問題になっています。",
+        "issueCards": [
+          {
+            "title": "AI market volatility",
+            "reading": "このイシューは、AIがとうし、きせい、インフラせんりゃくをどうかえるかをといなおしています。",
+            "original": "このイシューは、AIが投資、規制、インフラ戦略をどう変えるかを問い直しています。",
+            "korean": "이 이슈는 AI가 투자, 규제, 인프라 전략을 어떻게 바꾸는지 다시 묻고 있습니다.",
+            "expressions": [
+              {
+                "term": "インフラ戦略",
+                "reading": "インフラせんりゃく",
+                "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+                "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+              },
+              {
+                "term": "問い直す",
+                "reading": "といなおす",
+                "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+                "note": "분석·비평·전략 검토에 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "インフラ戦略",
+            "reading": "インフラせんりゃく",
+            "meaning": "인프라 전략. 전력, 데이터센터, 통신망 같은 기반 설비 전략입니다.",
+            "note": "산업 정책이나 기업 투자 문맥에서 씁니다."
+          },
+          {
+            "term": "問い直す",
+            "reading": "といなおす",
+            "meaning": "다시 묻다, 재검토하다. 기존 전제를 다시 살필 때 씁니다.",
+            "note": "분석·비평·전략 검토에 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares)"
+        ],
+        "sourceFile": "2026-06-30 Japanese World Issue.md"
       },
       {
         "date": "2026-07-01",
@@ -5706,6 +8208,53 @@
         ],
         "sources": [],
         "sourceFile": "2026-06-11 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-12",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-12",
+        "topic": "AI automation taxation",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI automation taxation",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.20649)"
+        ],
+        "sourceFile": "2026-06-12 Chinese World Issue.md"
       },
       {
         "date": "2026-06-13",
@@ -6098,6 +8647,147 @@
         "sourceFile": "2026-06-19 Chinese World Issue.md"
       },
       {
+        "date": "2026-06-20",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-20",
+        "topic": "AI talent pipeline",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI talent pipeline",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://en.wikipedia.org/wiki/International_Olympiad_in_Artificial_Intelligence)"
+        ],
+        "sourceFile": "2026-06-20 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-21",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-21",
+        "topic": "AI data center power demand",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI data center power demand",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.21064)"
+        ],
+        "sourceFile": "2026-06-21 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-22",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-22",
+        "topic": "AI grid sustainability",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI grid sustainability",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://arxiv.org/abs/2606.21064)"
+        ],
+        "sourceFile": "2026-06-22 Chinese World Issue.md"
+      },
+      {
         "date": "2026-06-23",
         "language": "Chinese",
         "title": "Chinese World Issue - 2026-06-23",
@@ -6218,6 +8908,194 @@
         "sourceFile": "2026-06-24 Chinese World Issue.md"
       },
       {
+        "date": "2026-06-25",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-25",
+        "topic": "AI environmental transparency",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI environmental transparency",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c)"
+        ],
+        "sourceFile": "2026-06-25 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-26",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-26",
+        "topic": "AI in the physical economy",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI in the physical economy",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy)"
+        ],
+        "sourceFile": "2026-06-26 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-27",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-27",
+        "topic": "AI infrastructure spending",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI infrastructure spending",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy)"
+        ],
+        "sourceFile": "2026-06-27 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-28",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-28",
+        "topic": "AI investment risk",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI investment risk",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
+        ],
+        "sourceFile": "2026-06-28 Chinese World Issue.md"
+      },
+      {
         "date": "2026-06-29",
         "language": "Chinese",
         "title": "Chinese World Issue - 2026-06-29",
@@ -6276,6 +9154,53 @@
           "- [The Economic Times, June 29, 2026 - AI investment boom may fuel financial risks](https://m.economictimes.com/news/economy/finance/ai-investment-boom-may-fuel-financial-risks-bis/articleshow/132058029.cms)"
         ],
         "sourceFile": "2026-06-29 Chinese World Issue.md"
+      },
+      {
+        "date": "2026-06-30",
+        "language": "Chinese",
+        "title": "Chinese World Issue - 2026-06-30",
+        "topic": "AI market volatility",
+        "practice": "企业需要把AI议题同时看作技术、财务和治理问题。",
+        "issueCards": [
+          {
+            "title": "AI market volatility",
+            "reading": "Gāi yìtí tíxǐng qǐyè hé zhèngcè zhìdìngzhě, réngōng zhìnéng zhèngzài gǎibiàn tóuzī, jiānguǎn hé jīchǔ shèshī juécè.",
+            "original": "该议题提醒企业和政策制定者，人工智能正在改变投资、监管和基础设施决策。",
+            "korean": "이 이슈는 기업과 정책 결정자에게 AI가 투자, 규제, 인프라 의사결정을 바꾸고 있음을 상기시킵니다.",
+            "expressions": [
+              {
+                "term": "基础设施决策",
+                "reading": "jīchǔ shèshī juécè",
+                "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+                "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+              },
+              {
+                "term": "政策制定者",
+                "reading": "zhèngcè zhìdìngzhě",
+                "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+                "note": "규제·거버넌스 문맥에서 씁니다."
+              }
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "term": "基础设施决策",
+            "reading": "jīchǔ shèshī juécè",
+            "meaning": "인프라 의사결정. 데이터센터, 전력망, 설비 투자 판단을 말합니다.",
+            "note": "산업 정책이나 기업 전략을 설명할 때 씁니다."
+          },
+          {
+            "term": "政策制定者",
+            "reading": "zhèngcè zhìdìngzhě",
+            "meaning": "정책 결정자. 정부와 공공기관의 규칙 설계 주체를 말합니다.",
+            "note": "규제·거버넌스 문맥에서 씁니다."
+          }
+        ],
+        "sources": [
+          "- [Source](https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares)"
+        ],
+        "sourceFile": "2026-06-30 Chinese World Issue.md"
       },
       {
         "date": "2026-07-01",
